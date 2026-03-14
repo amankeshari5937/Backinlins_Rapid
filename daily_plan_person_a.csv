@@ -1,0 +1,75 @@
+Day,Time Block,Task Type,Task Description,Target Page
+Monday,9:00-9:15,Review,Review task sheet. Identify top 10 prospects for today from Tier 1 backlog.,—
+Monday,9:15-10:00,Prospecting,"Search 10 new niche edit targets: 'best car shipping companies 2026', 'auto transport review', 'how to ship a car guide'. Log domain, DA, contact.",Tier 1 pages
+Monday,10:00-10:30,Outreach Email #1,Email move.org — Submit Rapid Auto Shipping for 'Best Car Shipping Companies' review listing.,https://rapidautoshipping.com/
+Monday,10:30-11:00,Outreach Email #2,Email cars.com car-shipping editorial — Request inclusion in best car shipping companies ranking.,https://rapidautoshipping.com/
+Monday,11:00-11:30,Outreach Email #3,Email movebuddha.com (editor@movebuddha.com) — Pitch inclusion in 'How to Ship a Car' guide. Include company stats.,https://rapidautoshipping.com/state-to-state/california-to-michigan
+Monday,11:30-12:00,Outreach Email #4,Email allaroundmoving.com (info@allaroundmoving.com) — Negotiate guest post placement. Send topic brief to content team if accepted.,https://rapidautoshipping.com/state-to-state/california-to-michigan
+Monday,12:00-1:00,LUNCH,—,—
+Monday,1:00-1:30,Outreach Email #5,Email 123relocation.com — Pitch guest post placement on Virginia to Ohio relocation topic. Get topic approved for content team.,https://rapidautoshipping.com/virginia-to-ohio-auto-transport-service
+Monday,1:30-2:00,Follow-up #1,Follow up on any outstanding emails from last week (3-5 day rule).,All
+Monday,2:00-2:30,Follow-up #2,Second follow-up batch — modify angle if first pitch got no response.,All
+Monday,2:30-3:00,Follow-up #3,"Third follow-up — final attempt with shorter, more direct email.",All
+Monday,3:00-3:30,Media Task,Monitor HARO for auto transport / moving / relocation journalist queries. Respond to any relevant ones.,varies
+Monday,3:30-4:00,Content Coordination,"Send approved topic briefs to content team for any accepted guest post placements. Include: target URL, anchor text, word count, deadline.",varies
+Monday,4:00-4:30,Prospect Logging,Log all 10 prospects into backlink_task_sheet.csv. Update status for all outreach sent today.,—
+Monday,4:30-5:00,Planning,Queue Tuesday's priority targets. Check which Tier 1 sites remain uncontacted.,—
+Tuesday,9:00-9:15,Review,Review responses from Monday. Prioritize any replies.,—
+Tuesday,9:15-10:00,Prospecting,"Search 10 new targets: 'guest post' + moving relocation, 'contribute' + automotive, 'write for us' + transport. Log all.",Tier 1 + 2 pages
+Tuesday,10:00-10:30,Outreach Email #1,Email usnews.com automotive editorial — Submit Rapid for car shipping company ranking.,https://rapidautoshipping.com/
+Tuesday,10:30-11:00,Outreach Email #2,Email automoblog.com — Pitch individual company review for Rapid Auto Shipping.,https://rapidautoshipping.com/virginia-to-ohio-auto-transport-service
+Tuesday,11:00-11:30,Outreach Email #3,Email screened.com blog — Request inclusion in 'Best Car Transport Companies' article.,https://rapidautoshipping.com/austin-to-seattle-auto-transport
+Tuesday,11:30-12:00,Outreach Email #4,Email connect.moversville.com — Negotiate guest post slot. Content team writes once approved.,https://rapidautoshipping.com/austin-to-seattle-auto-transport
+Tuesday,12:00-1:00,LUNCH,—,—
+Tuesday,1:00-1:30,Outreach Email #5,Email simplyauto.app — Secure guest post placement. Get topic approved. Content team drafts.,https://rapidautoshipping.com/state-to-state/arizona-to-colorado
+Tuesday,1:30-2:00,Follow-up #1,"Follow up on Monday's outreach (cars.com, move.org, movebuddha.com).",All
+Tuesday,2:00-2:30,Follow-up #2,Follow up on any guest post negotiations in progress.,All
+Tuesday,2:30-3:00,Follow-up #3,Re-send to any prospect that opened email but didn't reply (if tracking available).,All
+Tuesday,3:00-3:30,Media Task,Check HARO + Qwoted for new queries. Respond to relevant ones with expert data.,varies
+Tuesday,3:30-4:00,Content Coordination,Update content team on any new accepted placements. Provide anchor text and target URL specs.,varies
+Tuesday,4:00-4:30,Prospect Logging,Update backlink_task_sheet.csv with all today's activity.,—
+Tuesday,4:30-5:00,Planning,Queue Wednesday targets. Review which Tier 2 sites to start.,—
+Wednesday,9:00-9:15,Review,Check all responses. Handle any accepted placements immediately.,—
+Wednesday,9:15-10:00,Prospecting,"Search 10 targets: 'car shipping' + inurl:resources, 'auto transport' + 'recommended', 'vehicle shipping' + review. Log all.",Tier 2 pages
+Wednesday,10:00-10:30,Outreach Email #1,Email cartalk.com — Request listing in car shipping guide section.,https://rapidautoshipping.com/
+Wednesday,10:30-11:00,Outreach Email #2,Email freightwaves.com Checkpoint — Submit for car shipping companies review.,https://rapidautoshipping.com/
+Wednesday,11:00-11:30,Outreach Email #3,Email retirementliving.com — Request review listing alongside competitors.,https://rapidautoshipping.com/state-to-state/new-york-to-florida
+Wednesday,11:30-12:00,Outreach Email #4,Email arcrelocation.com — Request inclusion in '5 Best Car Transport Companies' article.,https://rapidautoshipping.com/state-to-state/texas-to-california
+Wednesday,12:00-1:00,LUNCH,—,—
+Wednesday,1:00-1:30,Outreach Email #5,Email fccr.co — Negotiate guest post placement for AZ-NJ route. Content team writes.,https://rapidautoshipping.com/state-to-state/arizona-to-new-jersey
+Wednesday,1:30-2:00,Follow-up #1,"Follow up on Tue outreach (usnews, automoblog, screened.com).",All
+Wednesday,2:00-2:30,Follow-up #2,Second follow-up round on any stale threads.,All
+Wednesday,2:30-3:00,Follow-up #3,"Escalate any hot leads — offer additional info, company data, stats.",All
+Wednesday,3:00-3:30,Media Task,Draft and submit press release brief to PR Newswire or EINPresswire. Topic: company milestone or data.,https://rapidautoshipping.com/
+Wednesday,3:30-4:00,Content Coordination,Check in with content team on drafts in progress. Ensure anchor text and link targets are correct.,varies
+Wednesday,4:00-4:30,Prospect Logging,Update all statuses in task sheet.,—
+Wednesday,4:30-5:00,Planning,Queue Thursday targets. Review Tier 1 completion rate.,—
+Thursday,9:00-9:15,Review,Priority: handle any acceptances or rejections from Mon-Wed.,—
+Thursday,9:15-10:00,Prospecting,Search 10 targets: competitor backlink research. Run Montway and Sherpa through free Ahrefs checker. Find sites linking to them not to Rapid.,All
+Thursday,10:00-10:30,Outreach Email #1,Email citizenshipper.com blog — Pitch inclusion in car shipping review.,https://rapidautoshipping.com/state-to-state/arizona-to-colorado
+Thursday,10:30-11:00,Outreach Email #2,Email agoyu.com — Submit for moving comparison platform listing.,https://rapidautoshipping.com/pennsylvania-to-illinois-auto-transport-service
+Thursday,11:00-11:30,Outreach Email #3,Email extraspace.com blog — Pitch link insertion in existing 'How to Ship Your Car' article.,https://rapidautoshipping.com/state-to-state/california-to-florida
+Thursday,11:30-12:00,Outreach Email #4,Email tornadodave.com (contact@tornadodave.com) — Negotiate guest post placement.,https://rapidautoshipping.com/state-to-state/california-to-florida
+Thursday,12:00-1:00,LUNCH,—,—
+Thursday,1:00-1:30,Outreach Email #5,Email jackcooper.com blog — Request inclusion in Top 10 review article.,https://rapidautoshipping.com/
+Thursday,1:30-2:00,Follow-up #1,"Follow up on Wed outreach (cartalk, freightwaves, retirementliving).",All
+Thursday,2:00-2:30,Follow-up #2,Follow up on any guest post placements awaiting content team delivery.,All
+Thursday,2:30-3:00,Follow-up #3,Final push on any prospects going cold — offer exclusive data or quotes.,All
+Thursday,3:00-3:30,Media Task,Check HARO + Qwoted. Respond to any new relevant journalist queries.,varies
+Thursday,3:30-4:00,Content Coordination,Review any completed drafts from content team. Forward to site editors for publication.,varies
+Thursday,4:00-4:30,Prospect Logging,Update all statuses.,—
+Thursday,4:30-5:00,Planning,Queue Friday targets. Prepare weekly report data.,—
+Friday,9:00-9:15,Review,Review all week's activity. Identify what's still pending.,—
+Friday,9:15-10:00,Prospecting,"Search 10 targets: 'car shipping' + consumer advice, 'auto transport' + .edu resources, 'vehicle shipping' + directory. Log all.",Tier 3 pages
+Friday,10:00-10:30,Outreach Email #1,Email consumeraffairs.com — Pitch niche edit in 'Cost to Ship a Car' guide for non-running vehicle section.,https://rapidautoshipping.com/non-running-vehicle-transport
+Friday,10:30-11:00,Outreach Email #2,Email ioscm.com (kimberley.jayne@ioscm.com) — Secure publication placement.,https://rapidautoshipping.com/
+Friday,11:00-11:30,Outreach Email #3,Email truckin247.com — Negotiate guest post placement for non-running vehicles.,https://rapidautoshipping.com/non-running-vehicle-transport
+Friday,11:30-12:00,Outreach Email #4,Email motorcraz.com (contact@motorcraz.com) — Secure placement for GA-TX route topic.,https://rapidautoshipping.com/state-to-state/georgia-to-texas
+Friday,12:00-1:00,LUNCH,—,—
+Friday,1:00-1:30,Outreach Email #5,Email best new prospect found this week from competitor research.,varies
+Friday,1:30-2:00,Follow-up #1,Final follow-ups for the week — all outstanding threads.,All
+Friday,2:00-2:30,Follow-up #2,Send 'last chance' follow-up to any week-old prospects.,All
+Friday,2:30-3:00,Follow-up #3,Close any open negotiations. Confirm placement details.,All
+Friday,3:00-3:30,Content Coordination,Final check: ensure all accepted placements have content assigned or delivered.,varies
+Friday,3:30-4:00,Verification,"Check any links that went live this week. Verify: URL exists, anchor correct, dofollow.",All
+Friday,4:00-5:00,Weekly Report,"Compile: emails sent, responses received, placements secured, links live. Update backlink_task_sheet.csv. Plan next week priorities.",—
