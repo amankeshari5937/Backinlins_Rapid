@@ -1,0 +1,485 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+  --navbg: #f8f9fa;
+  --navborder: #e0e0e0;
+  --rapid: #ff5722;
+  --h1colors: #626262;
+  --font-custom: "CustomFont";
+  --lgray: "#e4e4e4";
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../Inter/Inter-VariableFont_opsz,wght.ttf") format("truetype"),
+    url("../Inter/Inter-Italic-VariableFont_opsz,wght.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 100 900; /* Supports all weights from 100 to 900 */
+}
+
+/* Apply styling to dynamically injected HTML content */
+/* Apply styling to dynamically injected HTML content */
+.custom-content {
+  font-size: 1.2rem;
+  color: #333;
+  line-height: 1.6;
+}
+
+.custom-content h1 {
+  font-size: 2.5rem;
+  color: #222;
+  font-weight: bold;
+}
+
+.custom-content h2 {
+  font-size: 2rem;
+  color: black;
+  font-weight: bold;
+}
+
+.custom-content p {
+  color: #444;
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+.custom-content a {
+  color: #0d6efd;
+}
+
+.custom-content h2 a {
+  font-size: 2rem;
+  color: black;
+  text-decoration: none;
+}
+.custom-content h3 {
+  font-size: 1.5rem;
+  color: black;
+  text-decoration: none;
+}
+.custom-content ul {
+  list-style-type: square;
+  padding-left: 1.5rem;
+}
+
+/* Fix for Tailwind's "prose" conflicting styles */
+
+.shipping-form-state-image {
+  width: 100%;
+  height: auto;
+}
+.shipping-form-state-image img {
+  width: 100%;
+  height: auto;
+}
+
+/* .article_list {
+  margin-bottom: 2%;
+  display: none;
+} */
+
+.body {
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+}
+
+.faq {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.faq:after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 3px;
+  background-color: #2c6dc3;
+}
+
+.container {
+  width: 100%;
+}
+
+.box {
+  background-color: #f9f9f9;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.box:hover {
+  background-color: #eff5ff;
+}
+
+.box span {
+  font-size: 16px;
+  font-weight: 600;
+  color: #333;
+  flex: 1;
+}
+
+.box i {
+  font-size: 20px;
+  color: #2c6dc3;
+  transition: all 0.3s ease;
+}
+
+.box.active i {
+  transform: rotate(45deg);
+}
+
+.para-faq {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #666;
+  background-color: #fff;
+  padding: 5px 20px;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s ease;
+  opacity: 0;
+  margin-bottom: 10px;
+  border-left: 3px solid transparent;
+}
+
+.para-faq.active {
+  max-height: 300px; /* Increased max-height */
+  padding: 5px 20px;
+  opacity: 1;
+  border-left: 3px solid #2c6dc3;
+  background-color: #f9f9f9;
+  border-radius: 0 0 6px 6px;
+}
+
+@media (max-width: 768px) {
+  .body {
+    padding: 20px;
+  }
+
+  .box span {
+    font-size: 14px;
+  }
+
+  .para-faq {
+    font-size: 14px;
+  }
+}
+.custom-content div {
+  overflow-x: auto;
+  width: 100%;
+}
+/* Original CSS for Desktop */
+.custom-content table {
+  width: 100% !important;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 4px solid black;
+  overflow-x: auto;
+}
+
+/* Table Header */
+thead {
+  background-color: #2c3e50;
+  color: white;
+}
+
+/* Table Header Cells */
+th {
+  padding: 15px;
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 2px solid #ddd;
+}
+
+/* Table Cells */
+td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Black border for cells */
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+/* Row styles */
+tr {
+  font-weight: 700;
+}
+
+/* Striped Rows */
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+/* Hover Effect */
+tbody tr:hover {
+  background-color: #e6f7ff;
+  transition: background-color 0.3s ease;
+}
+
+/* First Column Bold */
+tbody tr td:first-child {
+  font-weight: bold;
+}
+
+/* Custom Overlay (unchanged) */
+.custom-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.388);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+/* Mobile-specific CSS (applies only on screens <= 768px) */
+@media screen and (max-width: 768px) {
+  .custom-content table {
+    width: 100% !important;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 4px solid black;
+    display: block; /* Enable scrolling */
+    overflow-x: auto; /* Horizontal scrolling */
+    white-space: nowrap; /* Prevent text wrapping */
+  }
+
+  /* Optional: Adjust padding for mobile */
+  th,
+  td {
+    padding: 8px; /* Reduced padding for mobile */
+  }
+
+  /* Scrollbar styling for mobile */
+  .custom-content table::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .custom-content table::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  .custom-content table::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+
+  .custom-content table::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+}
+
+.glass {
+  background: linear-gradient(
+    0deg,
+    rgba(252, 252, 254, 0.005) 0%,
+    rgba(237, 237, 243, 0.491) 35%
+  );
+
+  border-radius: 25px;
+  border: 1px solid rgba(255, 255, 255, 0.3); /* soft white border */
+  backdrop-filter: blur(2px); /* the glass blur */
+  -webkit-backdrop-filter: blur(20px); /* Safari support */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* soft gray shadow */
+  color: white; /* text color */
+  padding: 1rem;
+}
+.glass-2 {
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.005) 0%,
+    rgba(0, 0, 0, 0.491) 35%
+  );
+  border-radius: 25px;
+  border: 1px solid rgba(255, 255, 255, 0.3); /* soft white border */
+  backdrop-filter: blur(2px); /* the glass blur */
+  -webkit-backdrop-filter: blur(20px); /* Safari support */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* soft gray shadow */
+  color: white; /* text color */
+  padding: 1rem;
+}
+
+a href {
+  color: #0d6efd;
+}
+.snowbird-content {
+  font-family: "Segoe UI", Arial, sans-serif;
+  max-width: 1200px;
+
+  padding: 25px;
+  color: #333;
+  background-color: #fff;
+
+  border-radius: 8px;
+  margin: 5% auto;
+}
+
+.snowbird-content h2 {
+  color: black;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid #ff5722;
+  text-align: center;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+  letter-spacing: 0.5px;
+}
+
+.custom-content-faq h3 {
+  font-size: 28px;
+}
+
+/* Styling for p strong elements that are being used as h3 */
+.snowbird-content p strong {
+  display: block;
+  color: #333;
+  font-size: 22px;
+  font-weight: 700;
+  background-color: rgba(255, 87, 34, 0.08);
+  padding: 12px 15px;
+  border-left: 5px solid #ff5722;
+  border-radius: 0 5px 5px 0;
+  box-shadow: 0 2px 5px rgba(255, 87, 34, 0.15);
+}
+
+.snowbird-content p {
+  color: #444;
+  font-size: 18px;
+
+  text-align: justify;
+  padding: 0 5px;
+}
+
+/* Fix the conflict between the two p strong rules */
+.snowbird-content p:not(:first-of-type) strong:not(:first-child) {
+  display: inline;
+  color: #ff5722;
+  font-weight: 700;
+  background-color: transparent;
+  padding: 0;
+  border-left: none;
+  border-radius: 0;
+  box-shadow: none;
+  margin: 0;
+}
+
+/* Add a subtle hover effect for sections */
+.snowbird-content p strong:hover {
+  background-color: rgba(255, 87, 34, 0.12);
+  transition: background-color 0.3s ease;
+}
+
+/* Add some additional styling for emphasis */
+.snowbird-content em {
+  color: #666;
+  font-style: italic;
+}
+
+/* Styled lists if needed */
+.snowbird-content ul,
+.snowbird-content ol {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+.snowbird-content li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+
+/* Add a subtle background pattern */
+.snowbird-content {
+  background-image: linear-gradient(to bottom, #ffffff, #f9f9f9);
+  background-size: 100% 100%;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  .snowbird-content {
+    padding: 15px;
+  }
+
+  .snowbird-content h2 {
+    font-size: 26px;
+    padding-bottom: 10px;
+  }
+
+  .snowbird-content p strong {
+    font-size: 20px;
+    padding: 10px;
+  }
+
+  .snowbird-content p {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 480px) {
+  .snowbird-content h2 {
+    font-size: 22px;
+  }
+
+  .snowbird-content p strong {
+    font-size: 18px;
+  }
+
+  .snowbird-content p {
+    font-size: 14px;
+  }
+}
+
+@layer base {
+  section h1,
+  article h1,
+  aside h1,
+  nav h1 {
+    @apply text-5xl;
+  }
+}
+
+h1 {
+  font-size: 2.5rem; /* or your preferred size */
+}
+
+.prose h2 {
+  color: #ff5722; /* White text color */
+  /* Padding */
+  font-size: 2rem;
+  width: 100%; /* Full width */
+  margin: 0; /* Remove default margin */
+  box-sizing: border-box; /* Include padding in width */
+}
