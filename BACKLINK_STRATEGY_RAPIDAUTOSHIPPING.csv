@@ -1,0 +1,382 @@
+SECTION,Sub-Section,Item,Details,Priority,Notes
+SECTION 1 — WEBSITE STRUCTURE ANALYSIS,,,,,
+,Overview,Total Sitemaps,11 sitemaps: pages / blog / cars / city-to-city / cities / auction / service / state-to-state / states / auto-transport-carriers / faq,,
+,Overview,State Pages,50 state pages under /states/,,High commercial intent — "auto transport [state]" keywords
+,Overview,State-to-State Routes,900+ route pages under /state-to-state/,,Highest commercial intent — "ship car from [state] to [state]"
+,Overview,Service Pages,40+ service pages under /services/ + root,,Core money pages — "car shipping calculator" / "enclosed transport" etc.
+,Overview,Car Brand Pages,55+ pages under /cars/,,Brand-specific transport — "Tesla car transport service"
+,Overview,City Pages,Unknown count under /cities/ sitemap,,Local commercial intent — "auto transport [city]"
+,,,,,
+,TOP 20 COMMERCIAL PAGES FOR BACKLINKS,,,,,
+,Priority Page,1. /state-to-state/california-to-michigan,"12,746 impressions / position 16.7 — massive search volume with ranking gap",CRITICAL,Needs 12-18 links to reach page 1
+,Priority Page,2. /virginia-to-ohio-auto-transport-service,"9,388 impressions / position 9.64 — already page 1 fringe",CRITICAL,6-10 links to solidify top 5
+,Priority Page,3. /state-to-state/california-to-north-carolina,"12,842 impressions / position 27.22 — huge volume stuck on page 3",HIGH,12-18 links needed
+,Priority Page,4. /austin-to-seattle-auto-transport,"6,857 impressions / position 14.47",HIGH,10-15 links to break page 1
+,Priority Page,5. /state-to-state/north-carolina-to-california,"7,866 impressions / position 31.43",HIGH,12-18 links — high volume route
+,Priority Page,6. /services/car-shipping-calculator,"50,078 impressions / position 66.04 — enormous volume but position 66",HIGH,Highest impression page after homepage
+,Priority Page,7. /state-to-state/michigan-to-california,"5,650 impressions / position 25.42",HIGH,Route variant of #1
+,Priority Page,8. /state-to-state/new-york-to-alabama,"4,627 impressions / position 16.98",HIGH,Strong impression count
+,Priority Page,9. /state-to-state/alabama-to-texas,"4,289 impressions / position 14.09",HIGH,Close to page 1
+,Priority Page,10. /state-to-state/alabama-to-colorado,"3,785 impressions / position 10.48",HIGH,Already page 1 bottom — push to top 5
+,Priority Page,11. /pennsylvania-to-illinois-auto-transport-service,"3,699 impressions / position 6.82",HIGH,Already page 1 — solidify with 4-6 links
+,Priority Page,12. /state-to-state/arizona-to-new-jersey,"3,077 impressions / position 10.54",HIGH,Page 1 bottom — 6-10 links
+,Priority Page,13. /georgia-to-florida-auto-transport,"3,652 impressions / position 17.49",MEDIUM,Page 2 — needs authority boost
+,Priority Page,14. /state-to-state/louisiana-to-california,"1,804 impressions / position 11.84",MEDIUM,Good CTR at 2.49% — close to page 1
+,Priority Page,15. /state-to-state/arizona-to-colorado,"2,436 impressions / position 7.41",MEDIUM,Already page 1 — maintain and push
+,Priority Page,16. /state-to-state/georgia-to-california,"4,396 impressions / position 30.93",MEDIUM,High volume but page 3
+,Priority Page,17. /non-running-vehicle-transport,"1,737 impressions / position 15.66",MEDIUM,Unique service page — differentiator
+,Priority Page,18. /state-to-state/new-york-to-florida,"1,222 impressions / position 66.96",MEDIUM,Massive route but poor ranking
+,Priority Page,19. /state-to-state/california-to-florida,"361 impressions / position 70.0",MEDIUM,Top commercial route nationally
+,Priority Page,20. /state-to-state/texas-to-california,No GSC data yet — new page,MEDIUM,One of the highest-volume auto transport routes in US
+,,,,,
+,WHY THESE PAGES MATTER,Reason,"State-to-state route pages target transactional keywords with direct purchase intent. Users searching 'ship car from California to Michigan' are ready to buy. Each page 1 ranking on a route page = direct leads. State pages build topical authority. Service pages capture broad commercial queries.",,
+,,,,,
+SECTION 2 — GSC DATA ANALYSIS,,,,,
+,Overview,Total Clicks (90 days),"3,330 clicks from 680,675 impressions",,0.49% CTR — significant room for improvement
+,Overview,Traffic Split,"Mobile: 2,032 clicks (61%) / Desktop: 1,265 (38%) / Tablet: 33 (1%)",,Mobile-first optimization important
+,Overview,Trend,Daily clicks stable at 25-45/day from Dec 2025 to Mar 2026,,No major drops or gains — steady baseline
+,,,,,
+,HIGH IMPRESSIONS + LOW RANKING (QUICK WIN TARGETS),,,,,
+,Quick Win,/services/car-shipping-calculator,"50,078 impressions / position 66 — 89 clicks",CRITICAL,"Highest opportunity gap in entire site. Even moving to position 30 would multiply clicks 5-10x"
+,Quick Win,/state-to-state/california-to-north-carolina,"12,842 impressions / position 27 — 53 clicks",CRITICAL,Page 3 with enormous volume
+,Quick Win,/state-to-state/california-to-michigan,"12,746 impressions / position 16.7 — 48 clicks",CRITICAL,Close to page 1 with huge volume
+,Quick Win,/state-to-state/michigan-to-california,"5,650 impressions / position 25.4 — 89 clicks",HIGH,Reverse route of above
+,Quick Win,/blogs/ship-from-new-york-to-florida,"5,164 impressions / position 48.4 — 34 clicks",HIGH,Blog page but signals demand for NY-FL route page
+,Quick Win,/state-to-state/georgia-to-california,"4,396 impressions / position 30.9 — 27 clicks",HIGH,High volume stuck on page 3
+,Quick Win,/state-to-state/california-to-texas,"1,672 impressions / position 50.4 — 7 clicks",HIGH,Major route with poor ranking
+,Quick Win,/enclosed-car-transport,"4,988 impressions / position 73.4 — 2 clicks",HIGH,Core service page ranking very poorly
+,Quick Win,/state-to-state/california-to-hawaii,"2,449 impressions / position 67.7 — 5 clicks",MEDIUM,Specialty route with high interest
+,,,,,
+,KEYWORDS RANKING POSITION 5-20 (STRIKE DISTANCE),,,,,
+,Strike Distance,"virginia to ohio auto transport","position 4.56 / 4,653 impressions / 117 clicks",CRITICAL,Almost top 3 — small push = big gain
+,Strike Distance,"car shipping companies","position 5.94 / 1,031 impressions / 21 clicks",CRITICAL,Head term — massive upside
+,Strike Distance,"car transport service",position 2.77 / 706 impressions / 15 clicks,CRITICAL,Already top 3 — maintain
+,Strike Distance,"pennsylvania to illinois auto shipping","position 7.05 / 3,436 impressions / 45 clicks",HIGH,Solid page 1 position
+,Strike Distance,"new york to alabama car shipping","position 12.47 / 4,219 impressions / 88 clicks",HIGH,Push from page 2 to page 1
+,Strike Distance,"alabama to texas auto transport","position 14.51 / 4,322 impressions / 80 clicks",HIGH,Top of page 2
+,Strike Distance,"alabama to colorado auto transport","position 10.68 / 3,810 impressions / 67 clicks",HIGH,Bottom page 1
+,Strike Distance,"arizona to new jersey auto transport","position 10.38 / 3,044 impressions / 48 clicks",HIGH,Bottom page 1
+,Strike Distance,"shipping a car from michigan to california","position 13.83 / 1,748 impressions / 57 clicks",HIGH,Top of page 2
+,Strike Distance,"california to michigan auto transport","position 10 / 2,885 impressions / 16 clicks",HIGH,Bottom page 1 — low CTR to improve
+,Strike Distance,"auto transport companies",position 6.23 / 431 impressions / 9 clicks,HIGH,Head term on page 1
+,Strike Distance,"car transport companies",position 3.37 / 384 impressions / 8 clicks,HIGH,Already top 5
+,,,,,
+,PRIORITY BACKLINK TARGET LIST (RANKED),,,,,
+,Target List,Priority 1: /state-to-state/california-to-michigan,"Position 16.7 with 12,746 impressions — biggest ROI for backlinks",1,
+,Target List,Priority 2: /virginia-to-ohio-auto-transport-service,Position 9.64 — closest to top 5 with high volume,2,
+,Target List,Priority 3: /state-to-state/california-to-north-carolina,Position 27 but 12842 impressions — enormous upside,3,
+,Target List,Priority 4: /austin-to-seattle-auto-transport,Position 14.47 with 6857 impressions,4,
+,Target List,Priority 5: /services/car-shipping-calculator,Position 66 but 50K impressions — long play but massive,5,
+,Target List,Priority 6: /pennsylvania-to-illinois-auto-transport-service,Position 6.82 — already ranking well; solidify,6,
+,Target List,Priority 7: /state-to-state/alabama-to-colorado,Position 10.48 — push into top 5,7,
+,Target List,Priority 8: /state-to-state/arizona-to-new-jersey,Position 10.54 — push into top 5,8,
+,Target List,Priority 9: /state-to-state/new-york-to-alabama,Position 16.98 — high impressions,9,
+,Target List,Priority 10: /state-to-state/alabama-to-texas,Position 14.09 — close to page 1,10,
+,,,,,
+SECTION 3 — COMPETITOR BACKLINK ANALYSIS,,,,,
+,Overview,Competitors Analyzed,"4: freedomautotransport.com / usacarship.com / shipyourcarnow.com / shipacardirect.com",,
+,Overview,Total Backlinks Analyzed,"freedomautotransport: 3,168 / usacarship: 764 / shipyourcarnow: 10,001 / shipacardirect: 4,950",,
+,Overview,Quality Domains Found (AS>=8 non-spam),219 unique quality referring domains,,After filtering blogspot PBNs and spam directories
+,,,,,
+,DOMAINS LINKING TO MULTIPLE COMPETITORS,,,,,
+,Multi-Comp,bbb.org,"All 4 competitors — BBB profiles with nofollow links / AS 46",CRITICAL,Claim BBB profile immediately
+,Multi-Comp,scam-detector.com,All 4 competitors — reviews/ratings site / AS 13,HIGH,Submit for review
+,Multi-Comp,movecars.com,All 4 competitors — car transport directory / AS 48,CRITICAL,Already in prospect list — submit profile
+,Multi-Comp,yellowpages.com,3 competitors — business directory / AS 15,HIGH,Create/claim YP listing
+,Multi-Comp,zoominfo.com,3 competitors — business intelligence / AS 17,HIGH,Claim company profile
+,Multi-Comp,superpages.com,3 competitors — directory / AS 9,MEDIUM,Submit listing
+,Multi-Comp,dexknows.com,3 competitors — directory / AS 8,MEDIUM,Submit listing
+,Multi-Comp,sitelike.org,3 competitors — similar sites tool / AS 18,MEDIUM,Auto-generated — monitor
+,,,,,
+,AUTOMOTIVE & TRANSPORT DIRECTORIES,,,,,
+,Directory,movecars.com,"#1 car transport directory / AS 48 / used by all 4 competitors",CRITICAL,Submit company profile
+,Directory,classics.autotrader.com,"Autotrader Classic — shipyourcarnow has shipping partnership / AS 46",HIGH,Explore partnership opportunity
+,Directory,transportreviews.com,Industry review platform / AS 62 (from prospect list),CRITICAL,Already identified — claim profile
+,Directory,vehicletransportreviews.com,Transport review site / AS 55 / links to shipacardirect,HIGH,Submit for review
+,Directory,a1autotransport.com,30+ year industry directory / AS 56,HIGH,Already in prospect list
+,,,,,
+,LOGISTICS & BUSINESS DIRECTORIES,,,,,
+,Directory,bbb.org,Better Business Bureau / AS 46 / all 4 competitors,CRITICAL,Apply for accreditation
+,Directory,dnb.com,Dun & Bradstreet / AS 17 / usacarship listed,HIGH,Create business profile
+,Directory,crunchbase.com,Business intelligence / AS 17 / shipacardirect + shipyourcarnow,HIGH,Create company profile
+,Directory,zoominfo.com,B2B data / AS 17 / 3 competitors,HIGH,Claim profile
+,Directory,owler.com,Company intelligence / AS 9 / freedomautotransport + shipacardirect,MEDIUM,Create profile
+,Directory,enigma.com,Business data / AS 9,MEDIUM,Submit listing
+,,,,,
+,RELOCATION & MOVING DIRECTORIES,,,,,
+,Directory,yellowpages.com,"YP listing / AS 15 / 3 competitors",HIGH,Create/verify listing
+,Directory,superpages.com,Business directory / AS 9 / 3 competitors,MEDIUM,Submit listing
+,Directory,dexknows.com,Local directory / AS 8 / 3 competitors,MEDIUM,Submit listing
+,,,,,
+,BUSINESS LISTING PLATFORMS,,,,,
+,Platform,prnewswire.com,"Press release distribution / AS 17 / freedomautotransport + shipyourcarnow",HIGH,Distribute press releases
+,Platform,prweb.com,PR distribution / AS 11 / shipacardirect + shipyourcarnow,HIGH,Submit press releases
+,Platform,apps.apple.com,App Store / AS 61 / shipacardirect has app listing,MEDIUM,If app exists or planned
+,Platform,play.google.com,Google Play / AS 26 / shipacardirect has listing,MEDIUM,If app exists or planned
+,,,,,
+,NICHE/INDUSTRY SITES,,,,,
+,Niche,cartalk.com,Automotive editorial / AS 48 / links to shipacardirect,HIGH,Pitch inclusion in shipping guides
+,Niche,carconference.com,"Conference of Automotive Remarketing / AS 53 / shipyourcarnow is sponsor",HIGH,Explore sponsorship/listing
+,Niche,worktruckex.com,"Work Truck Exchange / AS 52 / shipyourcarnow listed",HIGH,Explore partnership
+,Niche,longdistancetowing.com,Towing resource / AS 47 / links to shipacardirect,HIGH,Pitch listing
+,Niche,maxrealestateexposure.com,Real estate content / AS 25 / links to shipacardirect,MEDIUM,Pitch relocation content
+,Niche,usnews.com,News/reviews / AS 20 / shipacardirect + shipyourcarnow,HIGH,Already in prospect list
+,Niche,thcauction.com,Auction site / AS 14 / usacarship + shipacardirect,MEDIUM,Explore shipping partner listing
+,,,,,
+,50 REPLICABLE BACKLINK OPPORTUNITIES,,,,,
+,Replicable #,1. bbb.org,BBB accreditation profile — all 4 competitors have it,CRITICAL,Self-service application process
+,Replicable #,2. movecars.com,Car transport directory profile — all 4 competitors listed,CRITICAL,Submit company profile
+,Replicable #,3. transportreviews.com,Claim/create company review profile,CRITICAL,Self-service submission
+,Replicable #,4. consumeraffairs.com,Apply for accredited business profile,CRITICAL,Application process
+,Replicable #,5. yellowpages.com,Create business listing,HIGH,Self-service
+,Replicable #,6. zoominfo.com,Claim company profile,HIGH,Self-service claim
+,Replicable #,7. crunchbase.com,Create company profile,HIGH,Free tier available
+,Replicable #,8. dnb.com,Dun & Bradstreet listing,HIGH,Self-service
+,Replicable #,9. superpages.com,Business directory listing,MEDIUM,Self-service
+,Replicable #,10. dexknows.com,Business directory listing,MEDIUM,Self-service
+,Replicable #,11. scam-detector.com,Submit for trust review,HIGH,All 4 competitors listed
+,Replicable #,12. owler.com,Claim company profile,MEDIUM,Free account
+,Replicable #,13. a1autotransport.com,Industry directory submission,HIGH,Contact directly
+,Replicable #,14. vehicletransportreviews.com,Submit for company review,HIGH,Self-service
+,Replicable #,15. cartalk.com,Pitch inclusion in shipping editorial,HIGH,Editorial outreach
+,Replicable #,16. usnews.com,Submit for car shipping rankings,HIGH,Editorial outreach
+,Replicable #,17. longdistancetowing.com,Partner listing,HIGH,Contact form
+,Replicable #,18. prnewswire.com,Distribute press release,HIGH,Paid service
+,Replicable #,19. prweb.com,Distribute press release,HIGH,Paid service
+,Replicable #,20. einpresswire.com,Budget press release,MEDIUM,Paid service
+,Replicable #,21. carconference.com,Industry event sponsorship/listing,MEDIUM,Contact organizers
+,Replicable #,22. worktruckex.com,Industry event listing,MEDIUM,Contact organizers
+,Replicable #,23. maxrealestateexposure.com,Relocation resource link,MEDIUM,Outreach to editor
+,Replicable #,24. thcauction.com,Auction shipping partner,MEDIUM,Partnership pitch
+,Replicable #,25. move.org,Best car shipping review — all 4 competitors,HIGH,Editorial submission
+,Replicable #,26. cars.com,Best car shipping editorial,HIGH,Editorial submission
+,Replicable #,27. freightwaves.com,Car shipping review editorial,HIGH,Editorial outreach
+,Replicable #,28. movebuddha.com,Car shipping guide inclusion,HIGH,editor@movebuddha.com
+,Replicable #,29. automoblog.com,Company review listing,HIGH,Editorial contact
+,Replicable #,30. retirementliving.com,Car shipping review page,MEDIUM,Editorial team
+,Replicable #,31. screened.com,Best transport companies article,HIGH,Blog editorial
+,Replicable #,32. citizenshipper.com,Review article inclusion,HIGH,Blog editorial
+,Replicable #,33. agoyu.com,Moving comparison platform,HIGH,Self-service submission
+,Replicable #,34. jackcooper.com,Top 10 car shipping article,HIGH,Blog editorial
+,Replicable #,35. extraspace.com,How to Ship Your Car article,MEDIUM,Blog team
+,Replicable #,36. arcrelocation.com,5 Best Car Transport article,MEDIUM,Contact form
+,Replicable #,37. allaroundmoving.com,Guest post placement,HIGH,info@allaroundmoving.com
+,Replicable #,38. 123relocation.com,Relocation guide placement,HIGH,Submission form
+,Replicable #,39. connect.moversville.com,Industry newsletter placement,HIGH,Guidelines page
+,Replicable #,40. pods.com,Resource center partner listing,HIGH,Corporate partnerships
+,Replicable #,41. relocationresources.org,National relocation guide,HIGH,Contact form
+,Replicable #,42. colonialvanlines.com,Auto transport guide inclusion,HIGH,Blog team
+,Replicable #,43. pcsgrades.com,Military relocation resource,MEDIUM,Sponsored content
+,Replicable #,44. parkslopeparents.com,Moving resources page,MEDIUM,Contact form
+,Replicable #,45. ioscm.com,Supply chain publication,HIGH,kimberley.jayne@ioscm.com
+,Replicable #,46. crestnetwork.com,Real estate professional network,MEDIUM,Contact form
+,Replicable #,47. fastexpert.com,Real estate agent resource,MEDIUM,Contact form
+,Replicable #,48. automotive-fleet.com,Fleet directory listing,MEDIUM,Directory submission
+,Replicable #,49. ttnews.com,Transport Topics directory,MEDIUM,Freight directory
+,Replicable #,50. feedspot.com,Auto shipping blog directory,MEDIUM,Self-service submission
+,,,,,
+SECTION 4 — LINK BUILDING STRATEGIES,,,,,
+,Strategy,1. Competitor Backlink Replication,"Replicate links from domains linking to 2+ competitors. Focus on directories / profiles / review sites where submission is self-service. No outreach needed for many.",Easy,High scalability
+,Strategy Detail,Difficulty,Easy — most are self-service profile creation or submission forms,,
+,Strategy Detail,Authority Potential,Medium-High — BBB (DR 93) / ConsumerAffairs (DR 86) / DNB (DR 93) down to DR 40+ directories,,
+,Strategy Detail,Time Required,1-2 hours per directory/profile submission,,
+,Strategy Detail,Scalability,HIGH — 50+ identified opportunities; can find more with expanded competitor research,,
+,,,,,
+,Strategy,2. Niche Edits on Existing Articles,"Identify articles about car shipping / auto transport / moving that already exist and pitch adding Rapid Auto Shipping as a recommended company. Target pages that already list competitors.",Medium,Highest authority potential
+,Strategy Detail,Difficulty,Medium — requires personalized outreach and negotiation,,
+,Strategy Detail,Authority Potential,"Very High — DR 70-93 sites like usnews / cars.com / move.org / cartalk.com",,"These are the links that actually move rankings"
+,Strategy Detail,Time Required,30-45 min per pitch including research and email drafting,,
+,Strategy Detail,Scalability,MEDIUM — limited by editorial response rates (expect 5-15% success rate),,
+,,,,,
+,Strategy,3. Automotive Directories,"Submit to every auto transport / car shipping / vehicle logistics directory. These are the easiest wins.",Easy,Medium authority
+,Strategy Detail,Difficulty,Easy — fill out forms,,
+,Strategy Detail,Authority Potential,Medium — DR 40-62 typically,,
+,Strategy Detail,Time Required,30-60 min per submission,,
+,Strategy Detail,Scalability,MEDIUM — finite number of niche directories (20-30 total),,
+,,,,,
+,Strategy,4. Logistics & Transportation Directories,"Submit to freight / trucking / logistics directories. Competitors use these.",Easy,Medium authority
+,Strategy Detail,Difficulty,Easy — form submissions,,
+,Strategy Detail,Authority Potential,Medium — DR 40-71,,
+,Strategy Detail,Time Required,30-60 min per submission,,
+,Strategy Detail,Scalability,MEDIUM — 15-25 relevant directories,,
+,,,,,
+,Strategy,5. Business Citation Websites,"Create consistent NAP (Name Address Phone) citations on major business directories. Builds trust signals and generates dofollow/nofollow backlinks.",Easy,Medium authority
+,Strategy Detail,Difficulty,Easy — self-service,,
+,Strategy Detail,Authority Potential,Medium — DR 15-93 (BBB is DR 93),,
+,Strategy Detail,Time Required,15-30 min per citation,,
+,Strategy Detail,Scalability,"HIGH — 50-100+ citation sites available (Yelp / Manta / Hotfrog / ChamberOfCommerce.com / etc.)",,
+,,,,,
+,Strategy,6. Relocation Resource Pages,"Pitch Rapid Auto Shipping as a resource on relocation guide pages. Target real estate / military relocation / moving company resource sections.",Medium,High authority
+,Strategy Detail,Difficulty,Medium — requires outreach,,
+,Strategy Detail,Authority Potential,High — DR 46-76,,
+,Strategy Detail,Time Required,30-45 min per pitch,,
+,Strategy Detail,Scalability,"MEDIUM — 20-40 relocation resource pages exist nationally",,
+,,,,,
+,Strategy,7. Company Profile Listings,"Create profiles on business intelligence platforms (ZoomInfo / Crunchbase / Owler / Glassdoor / LinkedIn Company Page). These link back to your site.",Easy,Medium authority
+,Strategy Detail,Difficulty,Easy — self-service claim/create,,
+,Strategy Detail,Authority Potential,Medium — DR 9-93,,
+,Strategy Detail,Time Required,15-30 min per profile,,
+,Strategy Detail,Scalability,LOW-MEDIUM — 10-15 major platforms,,
+,,,,,
+,Strategy,8. Industry Event & Conference Listings,"Get listed as a sponsor / attendee / vendor on industry event pages. shipyourcarnow.com has links from carconference.com and worktruckex.com.",Medium-Hard,High authority
+,Strategy Detail,Difficulty,Medium-Hard — requires sponsorship investment or attendance,,
+,Strategy Detail,Authority Potential,High — DR 50-65,,
+,Strategy Detail,Time Required,Variable — depends on event cycle,,
+,Strategy Detail,Scalability,LOW — 5-10 relevant events per year,,
+,,,,,
+,Strategy,9. Press Release Distribution,"Distribute newsworthy releases via PR Newswire / PRWeb / EINPresswire. Generates media pickup and brand mention links.",Medium,High authority
+,Strategy Detail,Difficulty,Medium — requires newsworthy content and budget ($100-500/release),,
+,Strategy Detail,Authority Potential,High — DR 71-91,,
+,Strategy Detail,Time Required,2-4 hours per release including drafting,,
+,Strategy Detail,Scalability,"MEDIUM — 1-2 per month is sustainable",,
+,,,,,
+,Strategy,10. Local Business Directories (Per-State),"Submit to state-specific business directories and local chamber of commerce sites. Link directly to state pages.",Easy-Medium,Medium authority
+,Strategy Detail,Difficulty,Easy-Medium — some require verification,,
+,Strategy Detail,Authority Potential,Medium — DR 20-50 typically,,
+,Strategy Detail,Time Required,20-40 min per submission,,
+,Strategy Detail,Scalability,"HIGH — every state has 3-5 local directories",,
+,,,,,
+SECTION 5 — NICHE EDIT STRATEGY,,,,,
+,Overview,What are Niche Edits,"Inserting your link into an existing published article on another website. Not guest posting — you're getting added to content that already ranks and has authority.",,
+,Overview,Why They Work for Commercial Pages,"Existing articles about 'how to ship a car' or 'best car shipping companies' already have topical relevance and authority. Adding Rapid to these pages passes direct relevant link equity to your commercial pages.",,
+,,,,,
+,TARGET ARTICLE CATEGORIES,,,,,
+,Category,1. 'Best Car Shipping Companies' Lists,"Sites like move.org / cars.com / usnews.com / cartalk.com already rank these. All 4 competitors are listed. Rapid should be added.",CRITICAL,"Link to homepage or /services/car-shipping-services with anchor 'Rapid Auto Shipping' or 'car shipping company'"
+,Category,2. 'How to Ship a Car' Guides,"Sites like movebuddha.com / extraspace.com / colonialvanlines.com have comprehensive guides. Pitch adding Rapid as a recommended provider.",HIGH,"Link to state-to-state pages with geographic anchors like 'California to Michigan auto transport'"
+,Category,3. Moving to a New State Articles,"Relocation-focused content on real estate sites / retirement sites / military PCS sites. These naturally mention vehicle shipping.",HIGH,"Link directly to state pages — e.g. an article about 'Moving to Florida' links to /states/florida"
+,Category,4. Vehicle Relocation Guides,"Auto-specific content about transporting cars for relocation / military moves / snowbird seasonal transport.",MEDIUM,"Link to service pages like /snowbird-car-transport-service or /military-auto-shipping"
+,Category,5. Car Ownership & Buying Guides,"Articles about buying cars online / at auction / across state lines. These mention needing transport.",MEDIUM,"Link to /services/auto-auction-shipping or /services/transporting-cars-for-dealerships"
+,Category,6. Long-Distance Moving Guides,"Comprehensive moving guides on sites like pods.com / allaroundmoving.com that cover all aspects of relocation.",MEDIUM,"Link to /services/ship-car-to-another-state or specific route pages"
+,,,,,
+,HOW TO POINT NICHE EDITS TO STATE/SERVICE PAGES,,,,,
+,Method,Match article topic to target page,"Article about 'moving from California' → link to /states/california. Article about 'best car shippers' → link to homepage. Article about 'car shipping costs' → link to /services/car-shipping-calculator.",,
+,Method,Use geographic anchor text naturally,"In an article about 'moving to Texas from California' insert: 'Companies like Rapid Auto Shipping offer [Texas to California car shipping](url) with door-to-door service.'",,
+,Method,Rotate target pages across edits,"Don't send all niche edits to homepage. Distribute: 40% route pages / 30% homepage / 20% service pages / 10% state pages",,
+,,,,,
+,REALISTIC MONTHLY ACQUISITION,,,,,
+,Estimate,Outreach volume,50-60 niche edit pitches per month (2 agents combined),,
+,Estimate,Response rate,15-25% response rate is realistic for well-targeted pitches,,
+,Estimate,Conversion rate,5-10% of pitches result in a placed link,,
+,Estimate,Monthly niche edits placed,3-6 per month,,
+,Estimate,Annual projection,36-72 niche edits per year,,
+,Estimate,Quality breakdown,"1-2 high authority (DR 60+) / 2-3 medium authority (DR 40-60) / 1-2 lower authority (DR 25-40) per month",,
+,,,,,
+SECTION 6 — TWO AGENT WORKFLOW (5-DAY WEEK),,,,,
+,PERSON A — ROLE,Focus,"Niche Edits + Guest Post Placements + Media Mentions + HARO",,Outreach-heavy role — strong email writing skills required
+,PERSON B — ROLE,Focus,"Directories + Citations + Resource Pages + Competitor Replication + Verification",,Execution-heavy role — systematic and detail-oriented
+,,,,,
+,MONDAY — PERSON A,9:00-9:15,Review task sheet. Identify top 10 prospects for today from Tier 1 backlog.,,
+,MONDAY — PERSON A,9:15-10:00,"Prospect discovery: Search for 10 new niche edit targets using queries like 'best car shipping companies 2026' / 'auto transport review' / 'how to ship a car guide'. Log domain + DA + contact.",,
+,MONDAY — PERSON A,10:00-10:30,Outreach Email #1 — Pitch to high-authority niche edit target,,
+,MONDAY — PERSON A,10:30-11:00,Outreach Email #2 — Pitch to second niche edit target,,
+,MONDAY — PERSON A,11:00-11:30,Outreach Email #3 — Pitch with company stats and data,,
+,MONDAY — PERSON A,11:30-12:00,Outreach Email #4 — Guest post placement negotiation,,
+,MONDAY — PERSON A,12:00-1:00,LUNCH,,
+,MONDAY — PERSON A,1:00-1:30,Outreach Email #5 — Guest post placement pitch,,
+,MONDAY — PERSON A,1:30-2:30,"Follow-ups — 3 rounds: 3-5 day old threads / modify angle for non-responders / final attempt shorter emails",,
+,MONDAY — PERSON A,2:30-3:30,HARO/Qwoted monitoring — respond to transport/moving/relocation queries,,
+,MONDAY — PERSON A,3:30-4:00,Content coordination — send topic briefs to content team for accepted placements,,
+,MONDAY — PERSON A,4:00-4:30,Prospect logging — update backlink_task_sheet.csv,,
+,MONDAY — PERSON A,4:30-5:00,Planning — queue Tuesday targets,,
+,,,,,
+,MONDAY — PERSON B,9:00-9:15,Review task sheet. Prioritize directory and resource page submissions.,,
+,MONDAY — PERSON B,9:15-10:00,"Prospect discovery: Search 10 resource pages using 'moving resources useful links' / 'relocation resources links' / 'car shipping inurl:resources'.",,
+,MONDAY — PERSON B,10:00-11:30,"Directory submissions (3 profiles): Complete profile creation on priority directories with full company info / services / contact / reviews.",,
+,MONDAY — PERSON B,11:30-12:00,Resource page outreach — pitch to partner listing or resource directory,,
+,MONDAY — PERSON B,12:00-1:00,LUNCH,,
+,MONDAY — PERSON B,1:00-1:30,Resource page outreach — second pitch,,
+,MONDAY — PERSON B,1:30-2:30,"Follow-ups on pending directory submissions and resource page pitches (3 rounds)",,
+,MONDAY — PERSON B,2:30-3:30,"Competitor replication — run 2 competitors through Ahrefs free checker / find 10 unique linking sites / add to prospect list",,
+,MONDAY — PERSON B,3:30-4:00,Citation building — submit to 2-3 general business directories,,
+,MONDAY — PERSON B,4:00-4:30,Prospect logging — update task sheet,,
+,MONDAY — PERSON B,4:30-5:00,Planning — queue Tuesday priorities,,
+,,,,,
+,DAILY TARGETS SUMMARY,Person A — Daily Output,"5 outreach emails + 3-5 follow-ups + 1 HARO response + 10 prospects discovered",,25 new outreach emails per week
+,DAILY TARGETS SUMMARY,Person B — Daily Output,"3 directory submissions + 2 resource page pitches + 2-3 citations + 10 competitor sites analyzed",,15 directories + 10 resource pitches + 12 citations per week
+,DAILY TARGETS SUMMARY,Combined Weekly Output,"25 outreach emails + 15 directory submissions + 10 resource pitches + 12 citations + 50 prospects + 5 HARO responses + 20-25 follow-ups",,
+,,,,,
+,TUESDAY THROUGH FRIDAY,Pattern,"Same daily structure with rotating targets. Tuesday: Tier 1 continuation. Wednesday: Tier 2 targets begin. Thursday: competitor replication outreach + content team coordination. Friday: verification + weekly report + planning.",,
+,,,,,
+,FRIDAY SPECIFIC TASKS — BOTH AGENTS,3:00-4:00,"LINK VERIFICATION: Visit every 'Live' link URL. Confirm link exists / correct anchor / dofollow status. Screenshot each. Update verification template.",,
+,FRIDAY SPECIFIC TASKS — BOTH AGENTS,4:00-5:00,"WEEKLY REPORT: Compile metrics — emails sent / responses received / placements secured / links live. Update task sheet. Plan next week priorities.",,
+,,,,,
+SECTION 7 — AUTOMATION OPPORTUNITIES,,,,,
+,Automation,1. Competitor Backlink Scraping,"Use Ahrefs API or free checker + a script to automatically pull new backlinks from competitor domains weekly. Export to CSV and flag replicable opportunities.",HIGH,"Saves 3-4 hours/week of manual competitor research"
+,Automation Detail,Tool Options,"Ahrefs API ($) / SEMrush API ($) / Free Ahrefs Backlink Checker (manual but free) / Python script with beautifulsoup for scraping free tools",,
+,Automation Detail,What to automate,Weekly pull of new referring domains for all 4 competitors → deduplicate → filter out spam → flag domains with AS > 10,,
+,,,,,
+,Automation,2. Directory Discovery,"Script to search Google for auto transport directories / logistics directories / business directories using preset queries and extract results.",MEDIUM,"Saves 2-3 hours/week of manual prospecting"
+,Automation Detail,Tool Options,"Python + Google Custom Search API / SerpAPI / manual Google dorking with saved queries",,
+,Automation Detail,Queries to automate,"'auto transport directory submit' / 'car shipping company listing' / 'transportation business directory USA' / 'auto transport' inurl:submit",,
+,,,,,
+,Automation,3. Niche Edit Opportunity Collection,"Scrape Google for articles matching target topics (best car shipping / how to ship a car / moving guides). Extract domain / title / URL / contact info.",MEDIUM,"Saves 2-3 hours/week"
+,Automation Detail,Tool Options,"Hunter.io for contact finding / Google Custom Search API / Pitchbox or BuzzStream for outreach management",,
+,Automation Detail,What to automate,Search for target queries → scrape top 50 results → extract domain info → find contact emails → output to prospect CSV,,
+,,,,,
+,Automation,4. Backlink Indexing Monitoring,"Use Google Search Console API or IndexNow to check if new backlinks are being indexed. Flag any that remain unindexed after 30 days.",MEDIUM,Saves 1-2 hours/week
+,Automation Detail,Tool Options,"Google Search Console API / Bing Webmaster API / IndexNow protocol / Google 'site:domain.com' queries",,
+,,,,,
+,Automation,5. Email Follow-Up Sequences,"Set up automated follow-up sequences (3-touch) for outreach emails. First follow-up at day 3 / second at day 7 / third at day 14.",HIGH,"Saves 3-5 hours/week of manual follow-up tracking"
+,Automation Detail,Tool Options,"Mailshake / Lemlist / GMass / Woodpecker — all support automated sequences with personalization",,
+,,,,,
+,Automation,6. Link Status Monitoring,"Weekly automated check of all live backlinks to detect removed/broken links. Alert if any high-value link is lost.",MEDIUM,Saves 1 hour/week
+,Automation Detail,Tool Options,"Ahrefs Alerts (paid) / Python script with requests library to check HTTP status of all live link URLs / Monitor Backlinks",,
+,,,,,
+,Automation,7. HARO Query Monitoring,"AI-powered monitoring of HARO/Qwoted/Connectively for relevant journalist queries. Auto-alert when transport/moving/relocation queries appear.",MEDIUM,"Saves 30 min/day of manual checking"
+,Automation Detail,Tool Options,"HARO email filter rules / Zapier webhook / custom script to parse HARO emails and flag relevant keywords",,
+,,,,,
+,TOTAL TIME SAVED,Weekly Estimate,"12-16 hours per week across both agents if all automations implemented",,That's equivalent to gaining a third part-time agent
+,,,,,
+SECTION 8 — BACKLINK TRACKING SYSTEM,,,,,
+,System Design,Format,Google Sheets or CSV with the following fields,,Shared between both agents with daily updates
+,,,,,
+,TRACKING FIELDS,Field 1,Link # — Sequential ID for each backlink opportunity,,
+,TRACKING FIELDS,Field 2,Website Domain — The referring domain,,
+,TRACKING FIELDS,Field 3,Linking Page URL — Exact URL where the backlink lives,,
+,TRACKING FIELDS,Field 4,Backlink Type — Directory / Niche Edit / Resource Page / Citation / Guest Post / Profile / Press Release,,
+,TRACKING FIELDS,Field 5,Target Page URL — The Rapid Auto Shipping page being linked to,,
+,TRACKING FIELDS,Field 6,Anchor Text — Exact anchor text used for the link,,
+,TRACKING FIELDS,Field 7,Submission Date — Date the outreach/submission was made,,
+,TRACKING FIELDS,Field 8,Status — Not Started / Outreach Sent / Follow-up 1 / Follow-up 2 / Accepted / Content Submitted / Live / Rejected / Lost,,
+,TRACKING FIELDS,Field 9,Live Link URL — Actual URL once link is published,,
+,TRACKING FIELDS,Field 10,Verification Date — Date the live link was manually verified,,
+,TRACKING FIELDS,Field 11,Follow/Nofollow — dofollow or nofollow attribute,,
+,TRACKING FIELDS,Field 12,DR/DA Score — Domain Rating or Authority of linking site,,
+,TRACKING FIELDS,Field 13,Indexing Status — Indexed / Not Indexed / Pending,,
+,TRACKING FIELDS,Field 14,Assigned To — Person A or Person B,,
+,TRACKING FIELDS,Field 15,Tier — Tier 1 / Tier 2 / Tier 3,,
+,TRACKING FIELDS,Field 16,Screenshot Taken — Yes/No — proof of link placement,,
+,TRACKING FIELDS,Field 17,Notes — Any relevant context or follow-up details,,
+,,,,,
+,VERIFICATION PROCESS,Weekly Check,"Every Friday: visit all links marked 'Live'. Confirm anchor text / dofollow status / page still exists. Update indexing status via site: operator. Screenshot for records.",,
+,VERIFICATION PROCESS,Monthly Audit,"First Monday of each month: full audit of all live links. Check for any lost/removed links. Report link velocity and growth trends.",,
+,,,,,
+SECTION 9 — REALISTIC RESULTS PROJECTIONS,,,,,
+,MONTH 1-3 PROJECTION,,,,,
+,3 Month,New Backlinks Acquired,40-65 total backlinks,,
+,3 Month,Breakdown,"15-20 directory/citation links + 8-12 niche edits + 5-8 resource page links + 5-10 profile links + 3-5 press release links + 2-4 guest post placements",,
+,3 Month,Quality Distribution,"30% DR 50+ / 40% DR 30-50 / 30% DR 15-30",,
+,3 Month,Expected Ranking Impact,"Strike distance pages (position 5-15) move up 2-5 positions on average. 2-3 route pages break into page 1. Homepage keywords improve 3-5 positions.",,
+,3 Month,Traffic Impact,"15-25% increase in organic clicks from current baseline of ~35/day",,From ~35 clicks/day to ~42-44 clicks/day
+,3 Month,Pages Most Likely to Improve,"virginia-to-ohio (already pos 9.6) / pennsylvania-to-illinois (pos 6.8) / alabama-to-colorado (pos 10.5) / arizona-to-new-jersey (pos 10.5)",,These are closest to top 5 and need fewest links
+,,,,,
+,MONTH 4-6 PROJECTION,,,,,
+,6 Month,Total Backlinks (Cumulative),90-140 total backlinks,,
+,6 Month,New in Period,50-75 additional backlinks,,Pace increases as systems mature and automation kicks in
+,6 Month,Expected Ranking Impact,"5-8 route pages ranking on page 1. Strike distance keywords move into top 5. 'car shipping companies' solidified in top 5. Homepage position improves from 33 to 20-25.",,
+,6 Month,Traffic Impact,"40-60% increase from original baseline",,From ~35 clicks/day to ~50-55 clicks/day
+,6 Month,Pages Most Likely to Improve,"california-to-michigan (from pos 16 to 8-12) / austin-to-seattle (from 14 to 7-10) / new-york-to-alabama (from 17 to 10-13) / alabama-to-texas (from 14 to 8-11)",,
+,,,,,
+,MONTH 7-12 PROJECTION,,,,,
+,12 Month,Total Backlinks (Cumulative),180-280 total backlinks,,
+,12 Month,Quality at Scale,"Niche edit pipeline mature. 5-8 per month. Directory exhaustion reached — focus shifts to resource pages and media mentions.",,
+,12 Month,Expected Ranking Impact,"10-15 route pages on page 1. Multiple state pages ranking. Service pages like car-shipping-calculator start climbing. Homepage position 15-20.",,
+,12 Month,Traffic Impact,"80-120% increase from original baseline",,From ~35 clicks/day to ~65-75 clicks/day
+,12 Month,Revenue Impact,"At average auto transport lead value of $50-150 per conversion — additional 30-40 clicks/day with 3-5% conversion = 1-2 additional leads/day = $50-300/day additional revenue",,
+,,,,,
+,HONEST CAVEATS,Caveat 1,"Rankings are not guaranteed. Google's algorithm considers 200+ factors. Backlinks alone won't fix poor on-page SEO or technical issues.",,
+,HONEST CAVEATS,Caveat 2,"Niche edits have a 5-10% conversion rate. Some months will produce 2 edits, others may produce 7. Average over time.",,
+,HONEST CAVEATS,Caveat 3,"Competitor activity matters. If competitors increase their link building simultaneously, gains may be slower.",,
+,HONEST CAVEATS,Caveat 4,"Google indexing delays mean some backlinks won't impact rankings for 4-8 weeks after placement.",,
+,HONEST CAVEATS,Caveat 5,"The car-shipping-calculator page (50K impressions) is a long play. Moving from position 66 to page 1 requires significant authority building over 6-12 months.",,
+,HONEST CAVEATS,Caveat 6,"Press releases provide short-term ranking signals. They should complement, not replace, editorial backlinks.",,
