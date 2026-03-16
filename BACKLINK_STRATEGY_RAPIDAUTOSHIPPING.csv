@@ -175,6 +175,60 @@ SECTION 3 — COMPETITOR BACKLINK ANALYSIS,,,,,
 ,Replicable #,49. ttnews.com,Transport Topics directory,MEDIUM,Freight directory
 ,Replicable #,50. feedspot.com,Auto shipping blog directory,MEDIUM,Self-service submission
 ,,,,,
+SECTION 3B — PROSPECT QUALIFICATION CRITERIA (MINIMUM THRESHOLDS),,,,,
+,MANDATORY MINIMUMS,,,,,
+,Minimum Threshold,DR / DA Score,DR 30+ minimum for any outreach target. Below DR 30 = do not pursue unless it is a highly relevant niche directory with organic traffic.,MANDATORY,Agents must check DR before sending any outreach email
+,Minimum Threshold,Organic Monthly Traffic,"1,000+ organic monthly visitors minimum (check via Ahrefs free checker or SEMrush). Sites with zero organic traffic provide no link equity value.",MANDATORY,Exception: brand-new niche directories with growing traffic trajectory
+,Minimum Threshold,Indexed Pages,Site must have 50+ pages indexed in Google. Check via site:domain.com operator. Sites with fewer than 50 indexed pages are likely thin or abandoned.,MANDATORY,Quick 10-second check before any outreach
+,Minimum Threshold,Niche Relevance,"Site must be in one of these niches: automotive / transport / logistics / moving / relocation / real estate / consumer reviews / business directories / news. Off-topic sites (gambling / pharma / crypto) = instant reject.",MANDATORY,No exceptions — irrelevant links can trigger Google penalties
+,Minimum Threshold,Spam Score,Moz Spam Score below 30%. Check via Moz free toolbar or Link Explorer. Sites above 30% spam score are risky.,MANDATORY,Even high-DR sites can have high spam scores
+,Minimum Threshold,Content Quality,"Site must have original editorial content (not AI-generated filler / scraped content / PBN-style thin posts). Manually check 2-3 articles before outreach.",MANDATORY,If the site looks like a link farm — skip it
+,,,,,
+,PREFERRED QUALITIES (NOT MANDATORY BUT PRIORITIZE),,,,,
+,Preferred,Real Editorial Team,"Site has named authors / editor / about page with real people. These are harder to get but much more valuable.",HIGH PRIORITY,Correlates with link longevity — editorial sites rarely remove links
+,Preferred,Social Signals,"Site has active social media presence / shares / engagement. Indicates real audience.",MEDIUM PRIORITY,Not a dealbreaker but a quality signal
+,Preferred,HTTPS Enabled,Site uses HTTPS. Google slightly favors links from secure sites.,LOW PRIORITY,Most legitimate sites use HTTPS by now
+,Preferred,Link Placement in Content Body,"Link will appear in article body (not footer / sidebar / author bio). In-content links pass the most equity.",HIGH PRIORITY,Footer and sidebar links are heavily discounted by Google
+,,,,,
+,AUTHORITY TIER CLASSIFICATION FOR PROSPECTS,,,,,
+,Classification,Tier A — High Authority,DR 60+ AND 10K+ monthly traffic AND relevant niche. These are the links that actually move rankings. Worth spending 2-3 hours on a single pitch.,CRITICAL,Target: 10-15% of total link portfolio
+,Classification,Tier B — Medium Authority,"DR 40-59 AND 1K-10K monthly traffic AND relevant niche. Solid supporting links. Build the bulk of your profile here.",HIGH,Target: 40-50% of total link portfolio
+,Classification,Tier C — Foundation Authority,"DR 30-39 AND 1K+ monthly traffic AND relevant niche. Directories / citations / profiles. Easy wins that build foundation.",MEDIUM,Target: 30-40% of total link portfolio
+,Classification,REJECT — Below Threshold,"DR below 30 OR traffic below 1K OR off-topic niche OR spam score above 30%. Do NOT build links here.",REJECT,Log in task sheet as 'Rejected — below threshold' so you don't revisit
+,,,,,
+,QUICK QUALIFICATION CHECKLIST (AGENTS: DO THIS FOR EVERY PROSPECT),,,,,
+,Step,1. Check DR/DA,"Free Ahrefs backlink checker → Domain Rating. Must be 30+. If below 30 → STOP.",,,
+,Step,2. Check traffic,"Free Ahrefs or SEMrush → Organic traffic. Must be 1K+. If below 1K → STOP.",,,
+,Step,3. Check index,"Google: site:domain.com → Must show 50+ results. If fewer → STOP.",,,
+,Step,4. Check relevance,"Browse homepage + 3 articles. Must be in auto / transport / moving / real estate / consumer / business niche. If off-topic → STOP.",,,
+,Step,5. Check spam,"Moz toolbar → Spam Score. Must be below 30%. If above → STOP.",,,
+,Step,6. Check content quality,"Read 2 articles. Are they original? Do they have real authors? If AI-generated filler → STOP.",,,
+,Step,"7. PASS — proceed with outreach","If all 6 checks pass → add to task sheet and proceed with outreach email.",,,
+,,,,,
+SECTION 3C — LINK TYPE ALLOCATION TARGETS,,,,,
+,OVERALL PORTFOLIO TARGET MIX,,,,,
+,Link Type,Directories / Citations,40% of total links built,TARGET,"Foundation layer. Easy to acquire. Build these first in Month 1-2. Taper as you saturate directories."
+,Link Type,Niche Edits,25% of total links built,TARGET,"Highest SEO value per link. Hard to get (5-10% conversion). Worth the effort. Focus Person A's time here."
+,Link Type,Guest Post Placements,15% of total links built,TARGET,"Good for deep-linking to route pages with exact anchors. Content team writes — agents only negotiate placement."
+,Link Type,Resource Page Links,10% of total links built,TARGET,"Relocation / moving / real estate resource pages. Moderate effort. Good for state-level pages."
+,Link Type,High Authority Placements (Media / PR / .edu),10% of total links built,TARGET,"Press releases + HARO + media mentions. Hardest to get but highest DR. Budget required for PR distribution."
+,,,,,
+,PER-PAGE LINK TYPE TARGETS,,,,,
+,Page Category,Tier 1 Route Pages (top 5),"35% directories / 25% niche edits / 20% guest posts / 10% resource pages / 10% high authority",TARGET,"Tier 1 pages need aggressive niche edit allocation. These are your money pages."
+,Page Category,Tier 2 Route Pages,"40% directories / 25% niche edits / 15% guest posts / 10% resource pages / 10% high authority",TARGET,"Slightly more directory-heavy. Niche edits still prioritized but fewer available."
+,Page Category,Tier 3 Pages (service / hub),"45% directories / 20% niche edits / 15% guest posts / 10% resource pages / 10% high authority",TARGET,"Long-play pages. Build foundation with directories. Niche edits come as opportunities arise."
+,Page Category,Homepage,"50% directories / 15% niche edits / 10% guest posts / 5% resource pages / 20% high authority",TARGET,"Homepage gets the highest directory % (all profiles link to homepage). High authority placements (BBB / ConsumerAffairs / press releases) also point here."
+,,,,,
+,MONTHLY LINK TYPE VELOCITY TARGETS,,,,,
+,Month,Month 1-2 (Foundation Phase),"Build 15-20 links/month. Split: 10-12 directories/citations + 2-3 niche edits + 1-2 guest posts + 1-2 resource pages + 0-1 high authority.",TARGET,"Front-load directory submissions. They're the easiest and fastest to deploy."
+,Month,Month 3-4 (Growth Phase),"Build 15-25 links/month. Split: 6-8 directories/citations + 4-6 niche edits + 2-3 guest posts + 2-3 resource pages + 1-2 high authority.",TARGET,"Directory saturation begins. Shift effort toward niche edits and guest posts."
+,Month,Month 5-6 (Authority Phase),"Build 10-20 links/month. Split: 3-5 directories/citations + 5-8 niche edits + 2-3 guest posts + 1-2 resource pages + 1-2 high authority.",TARGET,"Niche edits become primary focus. Directory pipeline mostly exhausted."
+,Month,Month 7-12 (Maintenance Phase),"Build 8-15 links/month. Split: 2-3 directories/citations + 4-6 niche edits + 2-3 guest posts + 1-2 resource pages + 1-2 high authority.",TARGET,"Steady-state. Focus on quality over quantity. Replace any lost links."
+,,,,,
+,AGENT LINK TYPE RESPONSIBILITY,,,,,
+,Agent,Person A Owns,"Niche Edits (100%) + Guest Post Placements (100%) + High Authority/Media (100%) = ~50% of total links",CLEAR OWNERSHIP,Person A's success metric: niche edits placed per month
+,Agent,Person B Owns,"Directories/Citations (100%) + Resource Pages (100%) = ~50% of total links",CLEAR OWNERSHIP,Person B's success metric: directories submitted + live per month
+,,,,,
 SECTION 4 — LINK BUILDING STRATEGIES,,,,,
 ,Strategy,1. Competitor Backlink Replication,"Replicate links from domains linking to 2+ competitors. Focus on directories / profiles / review sites where submission is self-service. No outreach needed for many.",Easy,High scalability
 ,Strategy Detail,Difficulty,Easy — most are self-service profile creation or submission forms,,
