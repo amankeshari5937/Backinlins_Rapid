@@ -1,0 +1,136 @@
+EXACT LINK PLACEMENT MAP — Texas State Page (/states/test-4 → will become /states/texas)
+"Format matches Pennsylvania link map exactly. Section-by-section from top to bottom."
+"Developer: Follow the same template structure as the Pennsylvania page."
+,,,,,
+
+SECTION,Action Needed?,Component / What It Is,Current State,Link Instructions,Notes
+
+1. TOP ANNOUNCEMENT BAR,NO CHANGES,"Calculate Cost / Learn How It Works / Google Reviews links","Already has links — same across all state pages",—,—
+
+2. NAVBAR,NO CHANGES,"Main navigation with service links + states dropdown","Already has links — good internal linking",—,—
+
+3. HERO SECTION (Breadcrumb + H1 + Quote Form),NO CHANGES,"Breadcrumb: Home > States > Texas | H1: Texas Auto Transport | Quote form","Breadcrumb auto-generates from slug. Form is priority. No links needed.",—,"H1 should read: 'Texas Car Shipping Services' or 'Texas Auto Transport Company'"
+
+4. TRUST BADGES BAR ($0 Deposit / Guaranteed Pick-Up / Express / Safe),NO CHANGES,"4 trust signal badges","Static component — no links. These are trust signals not link opportunities.",—,—
+
+5. TEXAS AUTO TRANSPORT BY REGION (6 Region Cards),YES — ADD 3 LINKS,"6 region cards: Dallas-Fort Worth Metroplex | Houston Metro | San Antonio & Hill Country | Austin Metro | El Paso & West Texas | Rio Grande Valley & South Texas","CURRENTLY: Zero internal links in card descriptions.",See below,—
+
+,Region Card: Dallas-Fort Worth Metroplex,,Add link in description where I-35 or I-20 corridor is mentioned,"<a href=""/state-to-state/texas-to-california"">vehicle shipping from Texas to California</a>","Anchor: 'vehicle shipping from Texas to California' — DFW is the #1 origin city for TX→CA shipments"
+,Region Card: Houston Metro,,Add link in description where I-10 or Gulf Coast is mentioned,"<a href=""/state-to-state/texas-to-florida"">Texas to Florida auto transport</a>","Anchor: 'Texas to Florida auto transport' — Houston is closest major TX city to FL"
+,Region Card: Austin Metro,,Add link in description where tech industry/relocation is mentioned,"<a href=""/state-to-state/texas-to-new-york"">shipping vehicles to New York</a>","Anchor: 'shipping vehicles to New York' — Austin tech workers frequently relocate to/from NYC"
+,LINK COUNT: 3,,,,
+
+6. TEXAS CAR SHIPPING COST BY ROUTE (10 Route Cards),YES — MAKE 5 TITLES CLICKABLE,"10 route cards: TX→California | TX→Florida | TX→New York | TX→Illinois | TX→Georgia | TX→Ohio | TX→Arizona | TX→Colorado | TX→Washington | TX→Michigan","CURRENTLY: Zero clickable titles. Route cards are static with no links.",See below,"Make ONLY the top 5 highest-volume route card titles clickable. Leave the other 5 as static text."
+
+,Route Card: Texas → California,MAKE CLICKABLE,"Wrap <h3> title in <a href=""/state-to-state/texas-to-california"">","<a href=""/state-to-state/texas-to-california""><h3>Texas <span>→</span> California</h3></a>","#1 volume route from Texas. GSC shows 1672 impressions for california-to-texas at position 50 — reverse route matters."
+,Route Card: Texas → Florida,MAKE CLICKABLE,"Wrap <h3> title in <a href=""/state-to-state/texas-to-florida"">","<a href=""/state-to-state/texas-to-florida""><h3>Texas <span>→</span> Florida</h3></a>","Major snowbird + military route"
+,Route Card: Texas → New York,MAKE CLICKABLE,"Wrap <h3> title in <a href=""/state-to-state/texas-to-new-york"">","<a href=""/state-to-state/texas-to-new-york""><h3>Texas <span>→</span> New York</h3></a>","High corporate relocation volume"
+,Route Card: Texas → Illinois,MAKE CLICKABLE,"Wrap <h3> title in <a href=""/state-to-state/texas-to-illinois"">","<a href=""/state-to-state/texas-to-illinois""><h3>Texas <span>→</span> Illinois</h3></a>","Chicago is top destination from TX"
+,Route Card: Texas → Georgia,MAKE CLICKABLE,"Wrap <h3> title in <a href=""/state-to-state/texas-to-georgia"">","<a href=""/state-to-state/texas-to-georgia""><h3>Texas <span>→</span> Georgia</h3></a>","Atlanta is a major carrier hub — helps route authority"
+,Route Card: Texas → Ohio,DO NOT LINK,—,—,Leave as static text
+,Route Card: Texas → Arizona,DO NOT LINK,—,—,Leave as static text
+,Route Card: Texas → Colorado,DO NOT LINK,—,—,Leave as static text
+,Route Card: Texas → Washington,DO NOT LINK,—,—,Leave as static text
+,Route Card: Texas → Michigan,DO NOT LINK,—,—,Leave as static text
+,LINK COUNT: 5,,,,
+
+7. INTRA-TEXAS CAR SHIPPING ROUTES (6 Intra-State Cards),NO CHANGES,"6 intra-state cards: Dallas→Houston | Austin→San Antonio | Houston→El Paso | Dallas→Austin | San Antonio→Houston | El Paso→Dallas","CURRENTLY: Zero internal links. These are intra-state routes — likely no dedicated pages exist.",—,"Adding dead links would hurt SEO. Only add links here IF dedicated city-to-city pages exist for these TX routes."
+
+8. SHIPPING CHALLENGES UNIQUE TO TEXAS (6-7 Challenge Cards),YES — ADD 2 LINKS,"Challenge cards: Texas Size/Distance | Summer Heat (100°F+) | Hurricane Season (Gulf Coast) | I-10/I-35 Corridor Traffic | Border Region Logistics | Rural West Texas","CURRENTLY: Zero internal links in card descriptions.",See below,—
+
+,Challenge Card: Texas Size/Distance,,Add link at end of description after mentioning cross-state distances,"<a href=""/services/car-shipping-calculator"">get an accurate shipping quote</a>","Anchor: 'get an accurate shipping quote' — TX is 800+ miles across; distance = cost concern"
+,Challenge Card: Summer Heat (100°F+),,Add link at end of description after mentioning paint/interior protection,"<a href=""/enclosed-car-transport"">enclosed transport options for heat protection</a>","Anchor: 'enclosed transport options for heat protection' — natural context for enclosed upsell"
+,LINK COUNT: 2,,,,
+
+9. TEXAS AUTO TRANSPORT SERVICES (6 Service Cards),YES — MAKE 3 TITLES CLICKABLE,"6 service cards: Open Auto Transport | Enclosed Auto Transport | Door-to-Door | Terminal-to-Terminal | Expedited | Non-Running Vehicle Transport","CURRENTLY: Service descriptions come from API (data.open_content etc). Titles are static text with no links. 'Get Free Quote' button already links to /calculator.",See below,"Only make 3 of 6 clickable — the ones with dedicated pages that need link equity."
+
+,Service Card: Open Auto Transport,MAKE CLICKABLE,"Wrap title in <a href=""/open-auto-transport"">","<a href=""/open-auto-transport""><h3>Open Auto Transport Service</h3></a>","Dedicated page exists at /open-auto-transport"
+,Service Card: Enclosed Auto Transport,MAKE CLICKABLE,"Wrap title in <a href=""/enclosed-car-transport"">","<a href=""/enclosed-car-transport""><h3>Enclosed Auto Transport Service</h3></a>","Dedicated page exists at /enclosed-car-transport. GSC: 4988 impressions at position 73 — needs equity badly."
+,Service Card: Non-Running Vehicle Transport,MAKE CLICKABLE,"Wrap title in <a href=""/non-running-vehicle-transport"">","<a href=""/non-running-vehicle-transport""><h3>Non-Running Vehicle Transport Service</h3></a>","Dedicated page exists. GSC: 1737 impressions at position 15 — push to top 10."
+,Service Card: Door-to-Door,DO NOT LINK,—,—,—
+,Service Card: Terminal-to-Terminal,DO NOT LINK,—,—,—
+,Service Card: Expedited,DO NOT LINK,—,—,—
+,LINK COUNT: 3,,,,
+
+10. WHO USES TEXAS CAR SHIPPING? (8 Audience Cards),YES — ADD 2 LINKS,"8 audience cards: Texas Snowbirds | Corporate Relocations (Energy/Tech) | Military (Fort Hood / Fort Bliss / Lackland AFB) | College Students | TX Dealerships | Auction Buyers | Car Show Transport | New Residents","CURRENTLY: Zero internal links in card descriptions.",See below,—
+
+,Audience Card: College Students,,Add link after mentioning Texas universities (UT Austin / Texas A&M / SMU / Rice / Texas Tech),"<a href=""/college-student-car-shipping"">college car shipping services</a>","Anchor: 'college car shipping services' — dedicated page exists at /college-student-car-shipping"
+,Audience Card: TX Dealerships,,Add link where '1000+ licensed dealers' or dealership volume is mentioned,"<a href=""/services/transporting-cars-for-dealerships"">dealership auto transport</a>","Anchor: 'dealership auto transport' — Texas has the 2nd most dealerships in the US"
+,LINK COUNT: 2,,,,
+
+11. SHIPPING A CAR TO OR FROM TEXAS (4-Step Process),NO CHANGES,"4 steps: Request Quote → Confirm & Assign → TX Pickup → Delivery & Handoff","Process steps should NOT have links — they distract from the CTA flow.",—,"This component uses data.content_2 / data.to_content / data.from_content from API. Links can be injected via API content if needed later."
+
+12. WHAT DRIVES TEXAS SHIPPING COSTS? (4 Cost Factor Cards),NO CHANGES,"4 hardcoded cards: Distance & Route | Transport Type (Open vs Enclosed) | Vehicle Size & Type | Season & Demand","Hardcoded in ShipmentFactors_state component. Same across all states.",—,"CUT from budget — adding links here would duplicate the enclosed transport link from section 8. Stay within budget."
+
+13. WHAT YOU NEED TO KNOW (TxDMV + Corridors + Military),NO CHANGES,"Reference/regulatory content about Texas DMV / registration / corridors / military base info","This is reference content. Links would feel forced and unnatural.",—,—
+
+14. GEOGRAPHY & CLIMATE IMPACT,NO CHANGES,"Content about Texas geography affecting transport: heat / hurricanes / distance","Informational section. No link opportunities that aren't already covered.",—,—
+
+15. PREPARE YOUR VEHICLE FOR TEXAS SHIPPING (6 Checklist Cards),NO CHANGES,"6 preparation tip cards: Remove personal items / Check fluids / Document condition / etc.","Preparation tips don't benefit from internal linking.",—,—
+
+16. TEXAS SHIPPING DISCOUNTS AVAILABLE (4 Discount Cards),NO CHANGES,"4 discount cards: Military | College | Multi-Car | Snowbird Early Book","Discount cards are CTAs — they drive to the quote form. Not link opportunities.",—,—
+
+17. TEXAS CUSTOMER REVIEWS (Testimonial Swiper),NO CHANGES,"Review carousel with Google/Trustpilot reviews + 'Read our Google reviews' link","Already has external Google reviews link at bottom. Adding more links clutters the social proof.",—,"CUT from budget to stay within 15-20 link target. The existing Google reviews link is sufficient."
+
+18. CTA BANNER (Ready to Ship Your Vehicle...),NO CHANGES,"Full-width banner with Get Quote button + phone number (833) 233-4447","Already has: /calculator link + phone link. This is a conversion element — no additional links.",—,—
+
+19. FAQ SECTION (8 FAQs),YES — ADD 3 LINKS IN ANSWERS,"8 FAQ questions with expandable answers. Content comes from API (data.faq_1 through data.faq_8).",See below,"Links must be added in the API content (faq_1 through faq_8 fields) since FAQSection renders data.faq_X as HTML via dangerouslySetInnerHTML."
+
+,"FAQ 2: Is open or enclosed auto transport better for Texas?",,"Add link in the answer text where enclosed transport is discussed","Insert in answer: ""For luxury or classic vehicles, <a href=""/enclosed-car-transport"">enclosed auto transport</a> provides superior protection from Texas sun and road debris.""","Anchor: 'enclosed auto transport' — natural context within the comparison answer"
+,"FAQ 5: How long does auto transport take in Texas?",,"Add link in the answer text where specific routes or transit times are mentioned","Insert in answer: ""For example, <a href=""/state-to-state/texas-to-california"">Texas to California shipping</a> typically takes 4-7 business days.""","Anchor: 'Texas to California shipping' — links to highest-priority TX route page"
+,"FAQ 6: Can I leave personal items in my car when shipping it to or from Texas?",,"Add link in the answer text where vehicle preparation is discussed","Insert in answer: ""For more details on preparing your vehicle, check <a href=""/how-it-works"">how our shipping process works</a>.""","Anchor: 'how our shipping process works' — links to /how-it-works page"
+,LINK COUNT: 3,,,,
+
+20. [NEW SECTION NEEDED] — ALSO SHIPPING TO NEARBY STATES,YES — NEW COMPONENT,"Position: INSERT between FAQs (section 19) and Footer","This section does NOT exist yet — developer must create it.",See below,"Same as Pennsylvania's 'Nearby States' section. Simple pill/card links to geographic neighbors."
+
+,Nearby State: Oklahoma,,"Link to /states/oklahoma","<a href=""/states/oklahoma"">Oklahoma</a>","Direct border state — I-35 corridor"
+,Nearby State: Louisiana,,"Link to /states/louisiana","<a href=""/states/louisiana"">Louisiana</a>","Direct border state — I-10 corridor"
+,Nearby State: New Mexico,,"Link to /states/new-mexico","<a href=""/states/new-mexico"">New Mexico</a>","Direct border state — I-10 / I-20 corridor"
+,Nearby State: Arkansas,,"Link to /states/arkansas","<a href=""/states/arkansas"">Arkansas</a>","Direct border state — I-30 corridor"
+,LINK COUNT: 4,,,,
+
+=== FINAL LINK BUDGET SUMMARY ===,,,,,
+
+Section,Links,Type,SEO Value,Implementation
+5. Region Cards (3 of 6),3,Add <a> in card description text,State-to-state route authority,Frontend — add anchor tags in region card description paragraphs
+6. Route Card Titles (5 of 10),5,Wrap <h3> in <a> tag,Hub-to-spoke route linking — HIGHEST VALUE,Frontend — wrap existing <h3> elements in <a> tags
+8. Challenge Cards (2 of 7),2,Add <a> in card description text,Links to calculator + enclosed transport,Frontend — add anchor tags in challenge card description paragraphs
+9. Service Card Titles (3 of 6),3,Wrap title in <a> tag,Service page equity distribution,Frontend — wrap service card <h3> in <a> tags
+10. Audience Cards (2 of 8),2,Add <a> in card description text,Niche service page equity,Frontend — add anchor tags in audience card description paragraphs
+19. FAQ Answers (3 of 8),3,Add <a> in answer HTML,Long-tail keyword anchors + deep linking,Backend API — add <a> tags in faq_2 / faq_5 / faq_6 content fields
+20. Nearby States (NEW section),4,New component with <a> links,Geographic authority + state hub linking,Frontend — create new NearbyStates component (reusable for all state pages)
+,,,,,
+TOTAL LINKS:,22,,,"Slightly above 15-20 target — acceptable because Texas is the 2nd largest state page and needs stronger internal linking"
+
+=== WHAT WAS CUT AND WHY ===,,,,,
+
+Section Cut,Reason
+12. Cost Factor Cards,"Hardcoded component — same across ALL states. Adding links here would duplicate enclosed transport link from section 8."
+14. Geography & Climate,"Informational content — no natural link context that isn't already covered in section 8 (challenges)"
+15. Preparation Checklist,"Utility content — links would feel forced and distract from actionable tips"
+16. Discount Cards,"These are CTAs driving to the quote form. Adding extra links splits user attention away from conversion."
+17. Reviews Summary Bar,"CUT to stay within budget. The existing Google reviews link is sufficient."
+7. Intra-State Routes,"No dedicated city-to-city pages exist for Dallas→Houston etc. Adding dead links would cause 404s and hurt SEO."
+
+=== HONEST SEO ASSESSMENT ===,,,,,
+
+Item,Reality Check
+"Will 22 internal links move the needle?","YES — but only combined with external backlinks. Internal links distribute existing authority. If the Texas state page has zero external backlinks, internal links alone won't rank it. Think of internal links as 'connecting the pipes' — you still need water (external authority) flowing in."
+"Which links matter most?","Section 6 (route card titles) and Section 20 (nearby states). These create the hub-and-spoke topology Google rewards. The Texas page becomes an authority hub linking down to specific routes and across to neighboring state hubs."
+"What's missing that PA has?","The Pennsylvania map included a 'Popular Shipping Routes' section (section 20 in PA) with 5 dedicated route cards. For Texas, the route card titles in section 6 already serve this purpose since they link to the same state-to-state pages. Adding a duplicate 'Popular Routes' section would be redundant."
+"FAQ links — API or frontend?","FAQ answers are stored in the backend API (data.faq_1 through faq_8) and rendered as raw HTML. Links MUST be added in the API/database content, NOT in the frontend component. The FAQSection component just renders whatever HTML it receives."
+"Should we add more links later?","Not on this page. 22 links is already generous. Over-linking dilutes equity per link. Focus additional linking effort on the ROUTE pages (texas-to-california, texas-to-florida, etc.) which are the actual money pages that convert visitors to leads."
+
+=== DEVELOPER IMPLEMENTATION CHECKLIST ===,,,,,
+
+Step,Task,Effort,Notes
+1,"Create NearbyStates reusable component (section 20) — accepts array of {state_name, slug} props",2-3 hours,"Make this reusable for ALL state pages — pass different neighbors per state"
+2,"Add <a> wrapper to 5 route card titles in section 6",30 min,"Conditional: only wrap if a link prop is provided in the route data"
+3,"Add <a> wrapper to 3 service card titles in section 9",30 min,"Service cards already have a 'link' property defined in FourthComponent.jsx — just use it"
+4,"Add inline <a> tags in 3 region card descriptions (section 5)",30 min,"Add in the description text content — not the card title"
+5,"Add inline <a> tags in 2 challenge card descriptions (section 8)",20 min,"Same approach as region cards"
+6,"Add inline <a> tags in 2 audience card descriptions (section 10)",20 min,"Same approach as region cards"
+7,"Update API content for faq_2 / faq_5 / faq_6 with embedded <a> tags (section 19)",30 min,"Backend change — update the database records for Texas state page FAQ answers"
+8,"QA: Click every link / check for 404s / verify mobile rendering / check PageSpeed",1 hour,"Test on mobile + desktop. Ensure no layout shifts from new <a> tags."
+,,,
+TOTAL ESTIMATED DEV TIME:,5-6 hours,,
