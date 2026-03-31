@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>California State Page — Internal Link Placement Guide</title>
+<style>
+  @page { margin: 0.75in; size: A4; }
+  @media print { .no-print { display: none; } body { font-size: 12px; } }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #2d3748; font-size: 14px; line-height: 1.7; max-width: 900px; margin: 0 auto; padding: 40px 24px; background: #fff; }
+  h1 { font-size: 26px; color: #1a365d; text-align: center; margin-bottom: 4px; }
+  .subtitle { text-align: center; color: #718096; font-size: 14px; margin-bottom: 6px; }
+  .stats-bar { display: flex; justify-content: center; gap: 24px; margin: 16px 0 32px; }
+  .stat { background: #1a365d; color: #fff; padding: 8px 20px; border-radius: 8px; font-weight: 700; font-size: 13px; }
+  h2 { font-size: 18px; color: #1a365d; border-bottom: 3px solid #ed8936; padding-bottom: 6px; margin: 32px 0 12px; }
+  h3 { font-size: 15px; color: #2d3748; margin: 20px 0 8px; }
+  .no-change { background: #f0fff4; border-left: 4px solid #48bb78; padding: 8px 16px; margin: 8px 0 16px; color: #276749; font-size: 13px; border-radius: 0 6px 6px 0; }
+  .add-link { background: #fffaf0; border-left: 4px solid #ed8936; padding: 8px 16px; margin: 8px 0 16px; color: #744210; font-size: 13px; border-radius: 0 6px 6px 0; }
+  .current-text { background: #fff5f5; border: 1px solid #feb2b2; padding: 12px 16px; border-radius: 8px; margin: 8px 0; font-size: 13px; }
+  .current-text::before { content: "CURRENT TEXT:"; display: block; font-weight: 700; color: #c53030; font-size: 11px; margin-bottom: 4px; }
+  .new-text { background: #f0fff4; border: 1px solid #9ae6b4; padding: 12px 16px; border-radius: 8px; margin: 8px 0; font-size: 13px; }
+  .new-text::before { content: "CHANGE TO:"; display: block; font-weight: 700; color: #276749; font-size: 11px; margin-bottom: 4px; }
+  .new-text a, .link-highlight { color: #3182ce; text-decoration: underline; font-weight: 600; }
+  .link-meta { display: flex; gap: 16px; margin: 6px 0 16px; font-size: 12px; }
+  .link-meta span { background: #ebf8ff; padding: 3px 10px; border-radius: 4px; color: #2b6cb0; }
+  pre { background: #1a202c; color: #e2e8f0; padding: 14px 16px; border-radius: 8px; overflow-x: auto; font-size: 12px; font-family: 'SF Mono', Monaco, 'Courier New', monospace; margin: 8px 0 16px; line-height: 1.5; }
+  table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 13px; }
+  th { background: #1a365d; color: #fff; padding: 10px 12px; text-align: left; font-size: 12px; }
+  td { border: 1px solid #e2e8f0; padding: 8px 12px; }
+  tr:nth-child(even) { background: #f7fafc; }
+  .checklist { list-style: none; padding: 0; }
+  .checklist li { padding: 8px 0; border-bottom: 1px solid #e2e8f0; font-size: 13px; }
+  .checklist li::before { content: "☐ "; font-size: 16px; }
+  .critical { background: #fff5f5; border: 2px solid #fc8181; padding: 12px 16px; border-radius: 8px; margin: 16px 0; font-size: 13px; }
+  .critical::before { content: "⚠ CRITICAL SEO NOTE: "; font-weight: 700; color: #c53030; }
+  hr { border: none; border-top: 1px solid #e2e8f0; margin: 24px 0; }
+  .section-skip { color: #a0aec0; font-size: 13px; }
+</style>
+</head>
+<body>
+
+<h1>CALIFORNIA STATE PAGE</h1>
+<h1 style="font-size:20px;color:#ed8936;margin-bottom:0;">Internal Link Placement Guide</h1>
+<p class="subtitle">Page: <code>/states/california</code> (currently <code>/states/test-3</code>)</p>
+<div class="stats-bar">
+  <span class="stat">20 Links to Add</span>
+  <span class="stat">7 Sections Need Changes</span>
+  <span class="stat">14 Sections — No Changes</span>
+</div>
+
+<hr>
+
+<!-- SECTIONS 1-5: NO CHANGES -->
+<h2>SECTION 1 — TOP ANNOUNCEMENT BAR</h2>
+<div class="no-change"><strong>NO CHANGES.</strong> Already has links to calculator and quote form.</div>
+
+<h2>SECTION 2 — NAVBAR</h2>
+<div class="no-change"><strong>NO CHANGES.</strong> Standard navigation across all pages.</div>
+
+<h2>SECTION 3 — HERO SECTION</h2>
+<p><strong>H1:</strong> "California Car Shipping: Auto Transport To &amp; From CA"</p>
+<p style="margin:8px 0;font-size:13px;color:#4a5568;"><strong>Paragraph:</strong> "Rapid Auto Shipping ensures reliable, stress-free vehicle transport throughout California. Our door-to-door service expertly handles major corridors like I-5 and I-10, navigating challenges from bustling Bay Area traffic to challenging Sierra Nevada routes. We connect key cities like Los Angeles, San Diego, Sacramento, and San Jose, offering full insurance and the convenience of zero upfront payment."</p>
+<div class="no-change"><strong>NO CHANGES.</strong> Quote form is the priority conversion element.</div>
+
+<h2>SECTION 4 — STATS BAR</h2>
+<p>10K+ Vehicles Shipped | $0 Until Pickup Day | 1-9 Day Transit | 58 Counties Covered</p>
+<div class="no-change"><strong>NO CHANGES.</strong></div>
+
+<h2>SECTION 5 — TRUST POINTS + BADGES</h2>
+<div class="no-change"><strong>NO CHANGES.</strong></div>
+
+<hr>
+
+<!-- SECTION 6: REGION CARDS -->
+<h2>SECTION 6 — "California Auto Transport by Region" (5 Region Cards)</h2>
+<div class="add-link"><strong>STATUS: ADD 3 LINKS</strong> | Link count: 3</div>
+
+<p><strong>Intro:</strong> "California's vast and varied geography, encompassing deserts, mountains, and coasts, necessitates tailored shipping strategies for each region."</p>
+<div class="no-change"><strong>NO CHANGES</strong> to intro paragraph.</div>
+
+<h3>Card 6A: Southern California — ADD LINK</h3>
+<div class="current-text">"As the hub for West Coast car transport, California boasts a high concentration of carriers, utilizing key routes like I-5, I-10, and I-15. Due to strict parking regulations in areas like LA and along the coast, deliveries often necessitate drop-offs in nearby commercial zones."</div>
+<div class="new-text">"As the hub for West Coast car transport, California boasts a high concentration of carriers, utilizing key routes like I-5, I-10, and I-15 for routes like <a href="/state-to-state/california-to-texas">California to Texas auto transport</a>. Due to strict parking regulations in areas like LA and along the coast, deliveries often necessitate drop-offs in nearby commercial zones."</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /state-to-state/california-to-texas</span>
+  <span><strong>Anchor:</strong> "California to Texas auto transport"</span>
+  <span><strong>GSC:</strong> 1,672 imp / pos 50.4</span>
+</div>
+
+<h3>Card 6B: Inland Empire — ADD LINK</h3>
+<div class="current-text">"The Inland Empire is ideal for vehicle transport, offering excellent carrier access via the I-10 and I-15 intersection. For summer temperatures above 110°F, enclosed transport is strongly recommended for vehicle protection."</div>
+<div class="new-text">"The Inland Empire is ideal for vehicle transport, offering excellent carrier access via the I-10 and I-15 intersection. For summer temperatures above 110°F, <a href="/enclosed-car-transport">enclosed transport</a> is strongly recommended for vehicle protection."</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /enclosed-car-transport</span>
+  <span><strong>Anchor:</strong> "enclosed transport"</span>
+  <span><strong>GSC:</strong> 4,988 imp / pos 73.4</span>
+</div>
+<p style="font-size:12px;color:#718096;">Note: Wrapping existing words — zero content change needed.</p>
+
+<h3>Card 6C: Northern California — ADD LINK</h3>
+<div class="current-text">"I-5 is the core car shipping route, with Sacramento as a key hub. Carriers are less frequent north of Redding. Shipping to remote areas, like Humboldt County, typically adds 3-5 days to transit time."</div>
+<div class="new-text">"I-5 is the core car shipping route, with Sacramento as a key hub for <a href="/state-to-state/california-to-washington">shipping vehicles to Washington</a>. Carriers are less frequent north of Redding. Shipping to remote areas, like Humboldt County, typically adds 3-5 days to transit time."</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /state-to-state/california-to-washington</span>
+  <span><strong>Anchor:</strong> "shipping vehicles to Washington"</span>
+</div>
+
+<h3>Card 6D: Bay Area</h3>
+<div class="no-change"><strong>NO CHANGES.</strong></div>
+
+<h3>Card 6E: Central Valley</h3>
+<div class="no-change"><strong>NO CHANGES.</strong></div>
+
+<hr>
+
+<!-- SECTION 7: ROUTE CARD TITLES -->
+<h2>SECTION 7 — "California Car Shipping Cost by Route" (10 Route Cards)</h2>
+<div class="add-link"><strong>STATUS: MAKE 5 TITLES CLICKABLE</strong> | Link count: 5</div>
+
+<p><strong>Intro:</strong> "Estimated rates for open carrier, standard sedan. Prices fluctuate with the season and demand."</p>
+<div class="no-change"><strong>NO CHANGES</strong> to intro or any description paragraphs.</div>
+
+<table>
+  <tr><th>Route Card</th><th>Link To</th><th>Make Clickable?</th></tr>
+  <tr><td><strong>California → Texas</strong></td><td><code>/state-to-state/california-to-texas</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td><strong>California → Florida</strong></td><td><code>/state-to-state/california-to-florida</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td><strong>California → New York</strong></td><td><code>/state-to-state/california-to-new-york</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td><strong>California → Illinois</strong></td><td><code>/state-to-state/california-to-illinois</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td><strong>California → Arizona</strong></td><td><code>/state-to-state/california-to-arizona</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td>California → Washington</td><td>—</td><td style="color:#a0aec0;">No</td></tr>
+  <tr><td>California → Nevada</td><td>—</td><td style="color:#a0aec0;">No</td></tr>
+  <tr><td>California → Georgia</td><td>—</td><td style="color:#a0aec0;">No</td></tr>
+  <tr><td>California → Colorado</td><td>—</td><td style="color:#a0aec0;">No</td></tr>
+  <tr><td>California → Oregon</td><td>—</td><td style="color:#a0aec0;">No</td></tr>
+</table>
+
+<p><strong>How to implement (same for all 5):</strong></p>
+<pre>&lt;!-- BEFORE --&gt;
+&lt;h3&gt;California &lt;span&gt;→&lt;/span&gt; Texas&lt;/h3&gt;
+
+&lt;!-- AFTER --&gt;
+&lt;a href="/state-to-state/california-to-texas"&gt;
+  &lt;h3&gt;California &lt;span&gt;→&lt;/span&gt; Texas&lt;/h3&gt;
+&lt;/a&gt;</pre>
+
+<hr>
+
+<!-- SECTION 8: INTRA-STATE -->
+<h2>SECTION 8 — "Intra-California Car Shipping Routes" (6 Cards)</h2>
+<p>LA→SF | San Diego→Sacramento | San Jose→LA | Sacramento→LA | SF→San Diego | Fresno→LA</p>
+<div class="no-change"><strong>NO CHANGES</strong> to entire section. No dedicated intra-state route pages exist.</div>
+
+<hr>
+
+<!-- SECTION 9: CHALLENGE CARDS -->
+<h2>SECTION 9 — "Shipping Challenges Unique to California" (6 Cards)</h2>
+<div class="add-link"><strong>STATUS: ADD 1 LINK</strong> | Link count: 1</div>
+
+<h3>Card 9A: Electric Vehicle (EV) Dominance — ADD LINK</h3>
+<div class="current-text">"Given that over 40% of new car sales in California are electric vehicles (EVs), our carriers are expertly trained for EV transport on all California routes. We kindly request you charge your EV to 40-50% (avoiding a full charge) and disable automated features like 'Sentry' mode for safe handling."</div>
+<div class="new-text">"Given that over 40% of new car sales in California are electric vehicles (EVs), our carriers are expertly trained for <a href="/electric-vehicle-shipping">EV transport</a> on all California routes. We kindly request you charge your EV to 40-50% (avoiding a full charge) and disable automated features like 'Sentry' mode for safe handling."</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /electric-vehicle-shipping</span>
+  <span><strong>Anchor:</strong> "EV transport"</span>
+</div>
+
+<h3 class="section-skip">Cards with NO CHANGES:</h3>
+<p class="section-skip">Wildfire Season | Port Congestion | Emissions Laws | Urban Access | Mountain Pass Closures</p>
+
+<hr>
+
+<!-- SECTION 10: SERVICE CARDS -->
+<h2>SECTION 10 — "California Auto Transport Services" (6 Cards)</h2>
+<div class="add-link"><strong>STATUS: MAKE 3 TITLES CLICKABLE</strong> | Link count: 3</div>
+
+<table>
+  <tr><th>Service Card</th><th>Link To</th><th>Make Clickable?</th></tr>
+  <tr><td><strong>Open Auto Transport</strong></td><td><code>/open-auto-transport</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td><strong>Enclosed Auto Transport</strong></td><td><code>/enclosed-car-transport</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td><strong>Non-Running Vehicle Transport</strong></td><td><code>/non-running-vehicle-transport</code></td><td style="color:#276749;font-weight:700;">YES</td></tr>
+  <tr><td>Door-to-Door Delivery</td><td>—</td><td style="color:#a0aec0;">No</td></tr>
+  <tr><td>Exotic &amp; Luxury Vehicle Transport</td><td>—</td><td style="color:#a0aec0;">No</td></tr>
+</table>
+<p style="font-size:13px;">Wrap the card title text in an <code>&lt;a&gt;</code> tag. Do NOT change description paragraphs.</p>
+
+<hr>
+
+<!-- SECTION 11: AUDIENCE CARDS -->
+<h2>SECTION 11 — "Who Uses California Car Shipping?" (8 Cards)</h2>
+<div class="add-link"><strong>STATUS: ADD 2 LINKS</strong> | Link count: 2</div>
+
+<h3>Card 11A: College Students — ADD LINK</h3>
+<div class="current-text">"UCLA · Stanford · UC Berkeley · USC · CalTech · UC San Diego · UC Davis"</div>
+<div class="new-text">"UCLA · Stanford · UC Berkeley · USC · CalTech · UC San Diego · UC Davis — see our <a href="/college-student-car-shipping">college car shipping services</a>"</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /college-student-car-shipping</span>
+  <span><strong>Anchor:</strong> "college car shipping services"</span>
+</div>
+
+<h3>Card 11B: CA Dealerships — ADD LINK</h3>
+<div class="current-text">"Inventory between lots, auction purchases, out-of-state dealer trades"</div>
+<div class="new-text">"Inventory between lots, auction purchases, out-of-state <a href="/services/transporting-cars-for-dealerships">dealer trades</a>"</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /services/transporting-cars-for-dealerships</span>
+  <span><strong>Anchor:</strong> "dealer trades"</span>
+</div>
+
+<h3 class="section-skip">Cards with NO CHANGES:</h3>
+<p class="section-skip">Relocating Families | Military PCS | Snowbirds | Auction Buyers | Online Car Buyers | Classic Car Owners</p>
+
+<hr>
+
+<!-- SECTIONS 12-19: NO CHANGES -->
+<h2>SECTIONS 12–19 — NO CHANGES NEEDED</h2>
+<table>
+  <tr><th>Section</th><th>Content</th><th>Status</th></tr>
+  <tr><td>12. How CA Car Shipping Works</td><td>4-step process</td><td>No changes</td></tr>
+  <tr><td>13. What Affects CA Costs</td><td>4 cost factor cards</td><td>No changes</td></tr>
+  <tr><td>14. What You Need to Know</td><td>DMV, Corridors, Military</td><td>No changes</td></tr>
+  <tr><td>15. Geography &amp; Climate</td><td>Terrain/weather info</td><td>No changes</td></tr>
+  <tr><td>16. Prepare Your Vehicle</td><td>6 checklist cards</td><td>No changes</td></tr>
+  <tr><td>17. Discounts Available</td><td>Military, Student, Multi-Car, Snowbird</td><td>No changes</td></tr>
+  <tr><td>18. Customer Reviews</td><td>3 review cards</td><td>No changes</td></tr>
+  <tr><td>19. CTA Banner</td><td>"Ready to Ship" + quote button</td><td>No changes</td></tr>
+</table>
+
+<hr>
+
+<!-- SECTION 20: FAQ -->
+<h2>SECTION 20 — FAQ SECTION (8 Custom California FAQs)</h2>
+<div class="add-link"><strong>STATUS: ADD 3 LINKS IN ANSWERS</strong> | Link count: 3</div>
+<p style="background:#ebf8ff;padding:10px 14px;border-radius:6px;font-size:13px;margin:8px 0 16px;"><strong>IMPORTANT:</strong> These are custom California FAQs. Links must be added in the <strong>backend database/CMS content</strong>, not in the frontend code. The component renders FAQ answers as raw HTML.</p>
+
+<h3>FAQ 20A: "Can you safely deliver a luxury or low-clearance vehicle to the hilly terrain of San Francisco?"</h3>
+<div class="current-text">"Shipping cars in San Francisco's hilly Bay Area requires a specialized approach. Our enclosed trailers use 'Race-Ramp' and hydraulic lift-gate technology for a near-flat entry, accommodating even the lowest sports cars safely. Our expert drivers locate level unloading zones for a 'showroom-ready' handover."</div>
+<div class="new-text">"Shipping cars in San Francisco's hilly Bay Area requires a specialized approach. Our <a href="/enclosed-car-transport">enclosed trailers</a> use 'Race-Ramp' and hydraulic lift-gate technology for a near-flat entry, accommodating even the lowest sports cars safely. Our expert drivers locate level unloading zones for a 'showroom-ready' handover."</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /enclosed-car-transport</span>
+  <span><strong>Anchor:</strong> "enclosed trailers"</span>
+</div>
+
+<h3>FAQ 20B: "What precautions are taken for Electric Vehicles (EVs) heading to Silicon Valley?"</h3>
+<div class="current-text">"California, the EV capital, requires specialized transport for electric vehicles due to their unique weight. We use heavy-duty trailers and drivers trained in 'Tow-Mode' and 'Transport-Mode' software (for brands like Tesla, Rivian, and Lucid) to protect your EV's high-voltage systems and electronics during transit."</div>
+<div class="new-text">"California, the EV capital, requires <a href="/electric-vehicle-shipping">specialized transport for electric vehicles</a> due to their unique weight. We use heavy-duty trailers and drivers trained in 'Tow-Mode' and 'Transport-Mode' software (for brands like Tesla, Rivian, and Lucid) to protect your EV's high-voltage systems and electronics during transit."</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /electric-vehicle-shipping</span>
+  <span><strong>Anchor:</strong> "specialized transport for electric vehicles"</span>
+</div>
+
+<h3>FAQ 20C: "What makes shipping a car to California easier than driving it yourself?"</h3>
+<div class="current-text">"Shipping your car saves you the time, expense (fuel, lodging), and stress of a multi-day cross-country drive. Professional carriers transport your protected vehicle, allowing you to travel comfortably or focus on moving. Your car arrives ready for use in California."</div>
+<div class="new-text">"Shipping your car saves you the time, expense (fuel, lodging), and stress of a multi-day cross-country drive. Professional carriers transport your protected vehicle, allowing you to travel comfortably or focus on moving. Your car arrives ready for use in California. <a href="/how-it-works">Learn how our process works</a>."</div>
+<div class="link-meta">
+  <span><strong>Link:</strong> /how-it-works</span>
+  <span><strong>Anchor:</strong> "Learn how our process works"</span>
+</div>
+
+<h3 class="section-skip">FAQs with NO CHANGES:</h3>
+<p class="section-skip">Personal items | Why CA is popular | Home delivery | Customer types | Mountain/coastal routes | Multiple vehicles</p>
+
+<hr>
+
+<!-- SECTION 21: NEARBY STATES -->
+<h2>SECTION 21 — [NEW] "Also Shipping To Nearby States"</h2>
+<div class="add-link"><strong>STATUS: CREATE NEW COMPONENT</strong> | Link count: 3 | Position: Between FAQs and Footer</div>
+
+<table>
+  <tr><th>Nearby State</th><th>Link To</th></tr>
+  <tr><td><strong>Oregon</strong></td><td><code>/states/oregon</code></td></tr>
+  <tr><td><strong>Nevada</strong></td><td><code>/states/nevada</code></td></tr>
+  <tr><td><strong>Arizona</strong></td><td><code>/states/arizona</code></td></tr>
+</table>
+
+<p style="font-size:13px;">Reuse the <code>NearbyStates</code> component from the Texas page:</p>
+<pre>&lt;NearbyStates neighbors={[
+  { name: "Oregon", slug: "oregon" },
+  { name: "Nevada", slug: "nevada" },
+  { name: "Arizona", slug: "arizona" },
+]} /&gt;</pre>
+
+<hr>
+
+<!-- FINAL SUMMARY -->
+<h2>FINAL SUMMARY TABLE</h2>
+<table>
+  <tr><th>#</th><th>Section</th><th>Links</th><th>What Developer Does</th></tr>
+  <tr><td>6</td><td>Region Cards — SoCal, Inland Empire, NorCal</td><td><strong>3</strong></td><td>Add &lt;a&gt; inside 3 card description paragraphs</td></tr>
+  <tr><td>7</td><td>Route Titles — TX, FL, NY, IL, AZ</td><td><strong>5</strong></td><td>Wrap 5 &lt;h3&gt; titles in &lt;a&gt; tags</td></tr>
+  <tr><td>9</td><td>Challenge Cards — EV Dominance</td><td><strong>1</strong></td><td>Add &lt;a&gt; inside 1 card description</td></tr>
+  <tr><td>10</td><td>Service Titles — Open, Enclosed, Non-Running</td><td><strong>3</strong></td><td>Wrap 3 card titles in &lt;a&gt; tags</td></tr>
+  <tr><td>11</td><td>Audience Cards — College, Dealerships</td><td><strong>2</strong></td><td>Add &lt;a&gt; inside 2 card descriptions</td></tr>
+  <tr><td>20</td><td>FAQ Answers — SF luxury, EV, driving</td><td><strong>3</strong></td><td>Add &lt;a&gt; in backend CMS/API content</td></tr>
+  <tr><td>21</td><td>Nearby States (NEW) — OR, NV, AZ</td><td><strong>3</strong></td><td>Reuse NearbyStates component</td></tr>
+  <tr><td></td><td><strong>TOTAL</strong></td><td><strong>20</strong></td><td></td></tr>
+</table>
+
+<hr>
+
+<!-- DEVELOPER CHECKLIST -->
+<h2>DEVELOPER CHECKLIST</h2>
+<ul class="checklist">
+  <li><strong>Section 6:</strong> Edit 3 region card descriptions (Southern CA, Inland Empire, Northern CA)</li>
+  <li><strong>Section 7:</strong> Wrap 5 route card &lt;h3&gt; titles with &lt;a&gt; tags (TX, FL, NY, IL, AZ)</li>
+  <li><strong>Section 9:</strong> Edit 1 challenge card description (EV Dominance)</li>
+  <li><strong>Section 10:</strong> Wrap 3 service card titles in &lt;a&gt; tags (Open, Enclosed, Non-Running)</li>
+  <li><strong>Section 11:</strong> Edit 2 audience card descriptions (College Students, CA Dealerships)</li>
+  <li><strong>Section 20:</strong> Update 3 FAQ answers in backend database/CMS</li>
+  <li><strong>Section 21:</strong> Add NearbyStates component (reuse from Texas) with OR, NV, AZ</li>
+  <li><strong>QA:</strong> Click every link, confirm no 404s, test mobile + desktop</li>
+</ul>
+
+<hr>
+
+<!-- SEO NOTES -->
+<h2>SEO NOTES — Why These Specific Links</h2>
+<table>
+  <tr><th>Link Target</th><th>GSC Impressions</th><th>GSC Position</th><th>Why It Matters</th></tr>
+  <tr><td>/state-to-state/california-to-texas</td><td>1,672</td><td>50.4</td><td>Major route stuck on page 5</td></tr>
+  <tr><td>/state-to-state/california-to-florida</td><td>361</td><td>70.0</td><td>Top national route ranking poorly</td></tr>
+  <tr><td>/enclosed-car-transport</td><td>4,988</td><td>73.4</td><td>Core service page, almost zero clicks</td></tr>
+  <tr><td>/non-running-vehicle-transport</td><td>1,737</td><td>15.66</td><td>Close to page 1 — small push = big gain</td></tr>
+  <tr><td>/electric-vehicle-shipping</td><td>—</td><td>—</td><td>CA = 40% EV sales, huge relevance</td></tr>
+  <tr><td>/college-student-car-shipping</td><td>—</td><td>—</td><td>40+ CA universities = massive audience</td></tr>
+  <tr><td>/how-it-works</td><td>—</td><td>—</td><td>Key conversion page, needs authority</td></tr>
+</table>
+
+<div class="critical">/state-to-state/california-to-michigan has 12,746 impressions at position 16.7 — the #1 priority route on the entire site. It is NOT on the California page's route cards. Consider adding it as a route card in a future content update.</div>
+
+<hr>
+<p style="text-align:center;color:#a0aec0;font-size:12px;margin-top:32px;">Generated for Rapid Auto Shipping | To save as PDF: Ctrl+P → Save as PDF</p>
+
+</body>
+</html>
